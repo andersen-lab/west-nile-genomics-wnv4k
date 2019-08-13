@@ -1,0 +1,3 @@
+[submodule "ca"]
+	path = ca
+	url = https://github.com/andersen-lab/west-nile-genomics-california
