@@ -6,44 +6,44 @@ W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25
 W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,,,,,pierce,mosquito
 W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,,,,,pierce,mosquito
 W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,,,,,,,,,,spokane,mosquito
-W0950,,,1309050020,2013-09-04,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0951,,,1310030042,2013-10-01,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0952,,,1509110048,2015-09-09,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0953,,,1509160097,2015-09-10,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0954,,,1708040034,2017-07-31,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0955,,,1708040067,2017-08-01,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0956,,,1708110012,2017-08-04,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0957,,,1708160178,2017-08-10,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0958,,,1709130182,2017-09-12,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0959,,,1709210004,2017-09-15,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0960,,,1709210066,2017-09-19,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0961,,,1710110064,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0962,,,1710110081,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0963,,,1807200027,2018-07-16,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0964,,,1808100059,2018-08-07,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0965,,,1808140082,2018-08-09,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0966,,,1808200012,2018-08-13,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0967,,,1808200031,2018-08-13,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0968,,,1808200033,2018-08-13,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0969,,,1808200057,2018-08-14,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0970,,,1808230144,2018-08-20,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0971,,,1808230268,2018-08-16,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0972,,,1808230374,2018-08-16,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0973,,,1808240039,2018-08-22,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0974,,,1808240051,2018-08-22,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0975,,,1808300206,2018-08-28,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0976,,,1809050088,2018-08-28,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0977,,,1809060023,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0978,,,1809060033,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0979,,,1809130129,2018-09-04,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0980,,,1809130222,2018-09-11,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0981,,,1809130232,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0982,,,1809130239,2018-09-11,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0983,,,1809130275,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0984,,,1809200002,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0985,,,1809200048,2018-09-13,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0986,,,1809200183,2018-09-18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0987,,,1809200184,2018-09-18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0988,,,1809200323,2018-09-18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0989,,,1810030033,2018-09-27,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,,,mosquito
-W0990,,,1810100037,2018-10-04,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,,,mosquito
+W0950,,,1309050020,9/4/13,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0951,,,1310030042,10/1/13,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0952,,,1509110048,9/9/15,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0953,,,1509160097,9/10/15,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0954,,,1708040034,7/31/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0955,,,1708040067,8/1/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0956,,,1708110012,8/4/17,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
+W0957,,,1708160178,8/10/17,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0958,,,1709130182,9/12/17,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0959,,,1709210004,9/15/17,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0960,,,1709210066,9/19/17,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,yes,yes,yes,yes,,,,,,strafford,mosquito
+W0961,,,1710110064,10/5/17,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0962,,,1710110081,10/5/17,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0963,,,1807200027,7/16/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0964,,,1808100059,8/7/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0965,,,1808140082,8/9/18,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0966,,,1808200012,8/13/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0967,,,1808200031,8/13/18,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0968,,,1808200033,8/13/18,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0969,,,1808200057,8/14/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0970,,,1808230144,8/20/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0971,,,1808230268,8/16/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0972,,,1808230374,8/16/18,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
+W0973,,,1808240039,8/22/18,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0974,,,1808240051,8/22/18,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0975,,,1808300206,8/28/18,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0976,,,1809050088,8/28/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0977,,,1809060023,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0978,,,1809060033,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
+W0979,,,1809130129,9/4/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0980,,,1809130222,9/11/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0981,,,1809130232,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0982,,,1809130239,9/11/18,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0983,,,1809130275,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0984,,,1809200002,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0985,,,1809200048,9/13/18,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0986,,,1809200183,9/18/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0987,,,1809200184,9/18/18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0988,,,1809200323,9/18/18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W0989,,,1810030033,9/27/18,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
+W0990,,,1810100037,10/4/18,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
