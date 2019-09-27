@@ -1,11 +1,37 @@
 scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,cdna,pcr,library_prep,sequenced,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
-W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,28,,,,,,,,,,spokane,mosquito
-W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,27,,,,,,,,,,spokane,mosquito
-W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,35,,,,,,,,,,pierce,mosquito
-W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,,,,,pierce,mosquito
-W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,,,,,pierce,mosquito
-W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,,,,,pierce,mosquito
-W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,,,,,,,,,,spokane,mosquito
+W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,28,yes,yes,yes,yes,,,,,,spokane,mosquito
+W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,27,yes,yes,yes,yes,,,,,,spokane,mosquito
+W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,35,yes,yes,yes,yes,,,,,,pierce,mosquito
+W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
+W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
+W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
+W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,yes,yes,yes,yes,,,,,,spokane,mosquito
+W0918,,yes,2013-7741.1,2013,Flamingo,,,USA,Virgin Islands,,,,,,,yes,yes,yes,yes,,,,,,,bird
+W0920,,yes,2015-10442.1,2015,Magpie,,,USA,WA,Grant,,,,,,yes,yes,yes,yes,,,,,,,bird
+W0921,,yes,2015-11794.1,2015,Magpie,,,USA,WA,Kittitas,,,,,,yes,yes,yes,yes,,,,,,,bird
+W0922,,yes,2015-11937.1,2015,Red-tailed hawk,,,USA,IA,,,,,,,yes,yes,yes,yes,,,,,,,bird
+W0924,,yes,2015-13052.2,2015,American Paint horse mix,,,USA,WA,Grant,Ephrata,,,,,yes,yes,yes,yes,,,,,,,bird
+W0925,,yes,2016-10167.2,2016,Quarterhorse,,,USA,WA,Spokane,Cheny,,,,,yes,yes,yes,yes,,,,,,,bird
+W0926,,yes,2016-12216.1,2016,Crow,,,USA,WA,Spokane,Spokane,,,,,yes,yes,yes,yes,,,,,,,bird
+W0927,,yes,2017-11015.1,2017,Short-eared owl,,,USA,ID,,Eagle,,,,,yes,yes,yes,yes,,,,,,,bird
+W0929,,yes,2017-11580.1,2017,Bald Eagle,,,USA,ID,,Eagle,,,,,yes,yes,yes,yes,,,,,,,bird
+W0930,,yes,2017-A1952.B2,2017,Quail,,,USA,WA,Walla,Walla Walla,,,,,yes,yes,yes,yes,,,,,,,bird
+W0931,,yes,2017-A2425 B8-3,2017,Pheasant,,,USA,WA,Lincoln,Reardan,,,,,yes,yes,yes,yes,,,,,,,bird
+W0933,,,2010-00942,2010,,Mosquito Pool,,USA,OR,Benton,,,,,21.93,yes,yes,yes,yes,,,,,,,mosquito
+W0936,,,2014-00295,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,32.06,yes,yes,yes,yes,,,,,,,mosquito
+W0937,,,2014-00660,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,28.63,yes,yes,yes,yes,,,,,,,mosquito
+W0938,,,2015-00846,2015,,Mosquito Pool,,USA,WA,Franklin,,,,,28.16,yes,yes,yes,yes,,,,,,,mosquito
+W0939,,,2015-01477,2015,,Mosquito Pool,,USA,WA,Grant,,,,,31.27,yes,yes,yes,yes,,,,,,,mosquito
+W0940,,,2016-00992,2016,,Mosquito Pool,,USA,WA,Grant,,,,,22.08,yes,yes,yes,yes,,,,,,,mosquito
+W0941,,,2016-01640,2016,,Mosquito Pool,,USA,WA,Grant,,,,,30.85,yes,yes,yes,yes,,,,,,,mosquito
+W0942,,,2016-02181,2016,,Mosquito Pool,,USA,OR,Jackson,,,,,27.57,yes,yes,yes,yes,,,,,,,mosquito
+W0943,,,2016-02497,2016,Crow,Brain,,USA,OR,Josephine,,,,,21.2,yes,yes,yes,yes,,,,,,,bird
+W0944,,,2017-00988,2017,,Mosquito Pool,,USA,OR,Umatilla,,,,,28.65,yes,yes,yes,yes,,,,,,,mosquito
+W0945,,,2017-01348,2017,,Mosquito Pool,,USA,WA,Grant,,,,,23.33,yes,yes,yes,yes,,,,,,,mosquito
+W0946,,,2017-01736,2017,Swainson's Hawk,Brain,,USA,OR,Klamath,,,,,23.79,yes,yes,yes,yes,,,,,,,bird
+W0947,,,2018-01636,2018,,Mosquito Superpool,,USA,OR,Morrow,,,,,31.15,yes,yes,yes,yes,,,,,,,mosquito
+W0948,,,2018-02024,2018,,Mosquito Pool,,USA,OR,Umatilla,,,,,23.37,yes,yes,yes,yes,,,,,,,mosquito
+W0949,,,2018-03125,2018,,Mosquito Pool,,USA,OR,Morrow,,,,,28.06,yes,yes,yes,yes,,,,,,,mosquito
 W0950,,,1309050020,9/4/13,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
 W0951,,,1310030042,10/1/13,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
 W0952,,,1509110048,9/9/15,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
@@ -47,3 +73,49 @@ W0987,,,1809200184,9/18/18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,
 W0988,,,1809200323,9/18/18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
 W0989,,,1810030033,9/27/18,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
 W0990,,,1810100037,10/4/18,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
+W1298,,,WNLA17_103,7/20/17,Cx. quinq.,,,USA,LA,Calcasieu,,,,,22.5644,yes,yes,yes,yes,,,,,,,mosquito
+W1299,,,WNLA17_104,7/31/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,27.0483,yes,yes,yes,yes,,,,,,,mosquito
+W1300,,,WNLA17_105,8/11/17,Cx. quinq.,,,USA,LA,WBR,,,,,24.0417,yes,yes,yes,yes,,,,,,,mosquito
+W1301,,,WNLA17_106,7/6/17,Cx. quinq.,,,USA,LA,WBR,,,,,20.9499,yes,yes,yes,yes,,,,,,,mosquito
+W1302,,,WNLA17_107,7/8/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,27.516,yes,yes,yes,yes,,,,,,,mosquito
+W1303,,,WNLA17_108,8/1/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.6277,yes,yes,yes,yes,,,,,,,mosquito
+W1305,,,WNLA17_110,6/28/17,Cx. quinq.,,,USA,LA,WBR,,,,,18.6219,yes,yes,yes,yes,,,,,,,mosquito
+W1306,,,WNLA17_111,7/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,20.5628,yes,yes,yes,yes,,,,,,,mosquito
+W1307,,,WNLA17_112,7/19/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,24.83,yes,yes,yes,yes,,,,,,,mosquito
+W1308,,,WNLA17_113,7/17/17,Cx. quinq.,,,USA,LA,WBR,,,,,19.7393,yes,yes,yes,yes,,,,,,,mosquito
+W1309,,,WNLA17_114,7/31/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.3438,yes,yes,yes,yes,,,,,,,mosquito
+W1322,,,WNLA18_386,8/15/18,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.2546,yes,yes,yes,yes,,,,,,,mosquito
+W1323,,,WNLA18_388,8/28/18,Cx. quinq.,,,USA,LA,EBR,,,,,26.1119,yes,yes,yes,yes,,,,,,,mosquito
+W1324,,,WNLA18_390,8/30/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.9964,yes,yes,yes,yes,,,,,,,mosquito
+W1326,,,WNLA18_397,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,21.3574,yes,yes,yes,yes,,,,,,,mosquito
+W1327,,,WNLA18_399,8/9/18,Cx. quinq.,,,USA,LA,WBR,,,,,22.3101,yes,yes,yes,yes,,,,,,,mosquito
+W1328,,,WNLA18_401,10/9/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.742,yes,yes,yes,yes,,,,,,,mosquito
+W1329,,,WNLA18_402,8/14/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.587,yes,yes,yes,yes,,,,,,,mosquito
+W1330,,,WNLA18_404,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,24.1371,yes,yes,yes,yes,,,,,,,mosquito
+W1331,,,WNLA18_408,8/28/18,Cx. quinq.,,,USA,LA,Ascension,,,,,24.4785,yes,yes,yes,yes,,,,,,,mosquito
+W1332,,,WNLA18_410,8/16/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.2704,yes,yes,yes,yes,,,,,,,mosquito
+W1334,,,WNLA18_412,8/21/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.1106,yes,yes,yes,yes,,,,,,,mosquito
+W1335,,,WNLA18_413,8/28/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.1479,yes,yes,yes,yes,,,,,,,mosquito
+W1336,,,WNLA18_418,8/22/18,Cx. quinq.,,,USA,LA,EBR,,,,,23.5758,yes,yes,yes,yes,,,,,,,mosquito
+W1337,,,WNLA18_419,8/2/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.1073,yes,yes,yes,yes,,,,,,,mosquito
+W1338,,,WNLA18_425,7/25/18,Cx. quinq.,,,USA,LA,Caddo,,,,,26.5086,yes,yes,yes,yes,,,,,,,mosquito
+W1339,,,WNLA18_427,8/13/18,Cx. quinq.,,,USA,LA,St. Tammany,,,,,25.8339,yes,yes,yes,yes,,,,,,,mosquito
+W1342,,,WNLA18_434,8/23/18,Cx. quinq.,,,USA,LA,WBR,,,,,24.5293,yes,yes,yes,yes,,,,,,,mosquito
+W1344,,,WNLA18_453,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.9268,yes,yes,yes,yes,,,,,,,mosquito
+W1345,,,WNLA18_464,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,31,yes,yes,yes,yes,,,,,,,mosquito
+W1346,,,WNLA18_465,8/4/18,Cx. quinq.,,,USA,LA,Bossier,,,,,26.651,yes,yes,yes,yes,,,,,,,mosquito
+W1353,,,WNLA17_99,6/26/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,21.6764,yes,yes,yes,yes,,,,,,,mosquito
+W1354,,,WNLA17_100,8/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.5521,yes,yes,yes,yes,,,,,,,mosquito
+W1356,,,WNLA17_102,6/21/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,23.1616,yes,yes,yes,yes,,,,,,,mosquito
+W1362,,,WNLA17_43,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,23.7802,yes,yes,yes,yes,,,,,,,mosquito
+W1364,,,WNLA17_49,7/7/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,21.8322,yes,yes,yes,yes,,,,,,,mosquito
+W1367,,,WNLA17_85,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,22.4299,yes,yes,yes,yes,,,,,,,mosquito
+W1368,,,WNLA17_95,7/18/17,Cx. quinq.,,,USA,LA,Allen,,,,,28.0982,yes,yes,yes,yes,,,,,,,mosquito
+W1369,,,WNLA17_151,7/28/17,Cx. quinq.,,,USA,LA,Caddo,,,,,24.0705,yes,yes,yes,yes,,,,,,,mosquito
+W1370,,,WNLA17_170,6/20/17,Cx. quinq.,,,USA,LA,Allen,,,,,Undetermined,yes,yes,yes,yes,,,,,,,mosquito
+W1372,,,WNLA17_179,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,26.5714,yes,yes,yes,yes,,,,,,,mosquito
+W1373,,,WNLA17_185,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,19.7313,yes,yes,yes,yes,,,,,,,mosquito
+W1374,,,WNLA17_189,7/17/17,Cx. quinq.,,,USA,LA,Caddo,,,,,21.7873,yes,yes,yes,yes,,,,,,,mosquito
+W1375,,,WNLA17_224,8/4/17,Cx. quinq.,,,USA,LA,Caddo,,,,,22.6103,yes,yes,yes,yes,,,,,,,mosquito
+W1378,,,WNLA17_263,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,18.0507,yes,yes,yes,yes,,,,,,,mosquito
+W1379,,,WNLA17_275,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,20.6587,yes,yes,yes,yes,,,,,,,mosquito
