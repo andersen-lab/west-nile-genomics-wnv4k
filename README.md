@@ -13,7 +13,7 @@ The samples from WA were provided by [Krisztian Magori](https://sites.ewu.edu/di
 
 The samples from NH were provided by Denise Bolton, Abigail Mathewson, Carolyn Fredett, Amy Kutschke and Rebecca Lovell at the [New Hampshire Division of Public Health Services, Department of Health and Human Services](https://www.dhhs.nh.gov/).
 
-Tha samples from LA were provided by Udeni Balasuriya, Rebecca Christofferson, Tarra Harden, Zelalem Mekuria, Laura Peak, Alma Roy, and Keith Strother at the [LSU Louisiana Animal Disease Diagnostic Laboratory](https://www.lsu.edu/vetmed/laddl/).
+Tha samples from LA were provided by Udeni Balasuriya, Rebecca Christofferson, Tarra Harden, Zelalem Mekuria, Laura Peak, Alma Roy, and Keith Strother from the [Louisiana Animal Disease Diagnostic Laboratory](https://www.lsu.edu/vetmed/laddl/) at Louisiana State University.
 
 #### Data
 Below is a table showing the number of sequenced genomes by state.
