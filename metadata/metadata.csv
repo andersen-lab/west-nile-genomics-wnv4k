@@ -1,121 +1,236 @@
-scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,cdna,pcr,library_prep,sequenced,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
-W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,28,yes,yes,yes,yes,,,,,,spokane,mosquito
-W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,27,yes,yes,yes,yes,,,,,,spokane,mosquito
-W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,35,yes,yes,yes,yes,,,,,,pierce,mosquito
-W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
-W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
-W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,yes,yes,yes,yes,,,,,,pierce,mosquito
-W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,yes,yes,yes,yes,,,,,,spokane,mosquito
-W0918,,yes,2013-7741.1,2013,Flamingo,,,USA,Virgin Islands,,,,,,,yes,yes,yes,yes,,,,,,,bird
-W0920,,yes,2015-10442.1,2015,Magpie,,,USA,WA,Grant,,,,,,yes,yes,yes,yes,,,,,,,bird
-W0921,,yes,2015-11794.1,2015,Magpie,,,USA,WA,Kittitas,,,,,,yes,yes,yes,yes,,,,,,,bird
-W0922,,yes,2015-11937.1,2015,Red-tailed hawk,,,USA,IA,,,,,,,yes,yes,yes,yes,,,,,,,bird
-W0924,,yes,2015-13052.2,2015,American Paint horse mix,,,USA,WA,Grant,Ephrata,,,,,yes,yes,yes,yes,,,,,,,bird
-W0925,,yes,2016-10167.2,2016,Quarterhorse,,,USA,WA,Spokane,Cheny,,,,,yes,yes,yes,yes,,,,,,,bird
-W0926,,yes,2016-12216.1,2016,Crow,,,USA,WA,Spokane,Spokane,,,,,yes,yes,yes,yes,,,,,,,bird
-W0927,,yes,2017-11015.1,2017,Short-eared owl,,,USA,ID,,Eagle,,,,,yes,yes,yes,yes,,,,,,,bird
-W0929,,yes,2017-11580.1,2017,Bald Eagle,,,USA,ID,,Eagle,,,,,yes,yes,yes,yes,,,,,,,bird
-W0930,,yes,2017-A1952.B2,2017,Quail,,,USA,WA,Walla,Walla Walla,,,,,yes,yes,yes,yes,,,,,,,bird
-W0931,,yes,2017-A2425 B8-3,2017,Pheasant,,,USA,WA,Lincoln,Reardan,,,,,yes,yes,yes,yes,,,,,,,bird
-W0933,,,2010-00942,2010,,Mosquito Pool,,USA,OR,Benton,,,,,21.93,yes,yes,yes,yes,,,,,,,mosquito
-W0936,,,2014-00295,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,32.06,yes,yes,yes,yes,,,,,,,mosquito
-W0937,,,2014-00660,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,28.63,yes,yes,yes,yes,,,,,,,mosquito
-W0938,,,2015-00846,2015,,Mosquito Pool,,USA,WA,Franklin,,,,,28.16,yes,yes,yes,yes,,,,,,,mosquito
-W0939,,,2015-01477,2015,,Mosquito Pool,,USA,WA,Grant,,,,,31.27,yes,yes,yes,yes,,,,,,,mosquito
-W0940,,,2016-00992,2016,,Mosquito Pool,,USA,WA,Grant,,,,,22.08,yes,yes,yes,yes,,,,,,,mosquito
-W0941,,,2016-01640,2016,,Mosquito Pool,,USA,WA,Grant,,,,,30.85,yes,yes,yes,yes,,,,,,,mosquito
-W0942,,,2016-02181,2016,,Mosquito Pool,,USA,OR,Jackson,,,,,27.57,yes,yes,yes,yes,,,,,,,mosquito
-W0943,,,2016-02497,2016,Crow,Brain,,USA,OR,Josephine,,,,,21.2,yes,yes,yes,yes,,,,,,,bird
-W0944,,,2017-00988,2017,,Mosquito Pool,,USA,OR,Umatilla,,,,,28.65,yes,yes,yes,yes,,,,,,,mosquito
-W0945,,,2017-01348,2017,,Mosquito Pool,,USA,WA,Grant,,,,,23.33,yes,yes,yes,yes,,,,,,,mosquito
-W0946,,,2017-01736,2017,Swainson's Hawk,Brain,,USA,OR,Klamath,,,,,23.79,yes,yes,yes,yes,,,,,,,bird
-W0947,,,2018-01636,2018,,Mosquito Superpool,,USA,OR,Morrow,,,,,31.15,yes,yes,yes,yes,,,,,,,mosquito
-W0948,,,2018-02024,2018,,Mosquito Pool,,USA,OR,Umatilla,,,,,23.37,yes,yes,yes,yes,,,,,,,mosquito
-W0949,,,2018-03125,2018,,Mosquito Pool,,USA,OR,Morrow,,,,,28.06,yes,yes,yes,yes,,,,,,,mosquito
-W0950,,,1309050020,9/4/13,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0951,,,1310030042,10/1/13,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0952,,,1509110048,9/9/15,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0953,,,1509160097,9/10/15,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0954,,,1708040034,7/31/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0955,,,1708040067,8/1/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0956,,,1708110012,8/4/17,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
-W0957,,,1708160178,8/10/17,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0958,,,1709130182,9/12/17,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0959,,,1709210004,9/15/17,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0960,,,1709210066,9/19/17,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,yes,yes,yes,yes,,,,,,strafford,mosquito
-W0961,,,1710110064,10/5/17,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0962,,,1710110081,10/5/17,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0963,,,1807200027,7/16/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0964,,,1808100059,8/7/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0965,,,1808140082,8/9/18,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0966,,,1808200012,8/13/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0967,,,1808200031,8/13/18,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0968,,,1808200033,8/13/18,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0969,,,1808200057,8/14/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0970,,,1808230144,8/20/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0971,,,1808230268,8/16/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0972,,,1808230374,8/16/18,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
-W0973,,,1808240039,8/22/18,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0974,,,1808240051,8/22/18,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0975,,,1808300206,8/28/18,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0976,,,1809050088,8/28/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0977,,,1809060023,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0978,,,1809060033,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,yes,yes,yes,yes,,,,,,hillsborough,mosquito
-W0979,,,1809130129,9/4/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0980,,,1809130222,9/11/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0981,,,1809130232,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0982,,,1809130239,9/11/18,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0983,,,1809130275,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0984,,,1809200002,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0985,,,1809200048,9/13/18,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0986,,,1809200183,9/18/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0987,,,1809200184,9/18/18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0988,,,1809200323,9/18/18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W0989,,,1810030033,9/27/18,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,yes,yes,yes,yes,,,,,,cheshire,mosquito
-W0990,,,1810100037,10/4/18,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,yes,yes,yes,yes,,,,,,rockingham,mosquito
-W1298,,,WNLA17_103,7/20/17,Cx. quinq.,,,USA,LA,Calcasieu,,,,,22.5644,yes,yes,yes,yes,,,,,,,mosquito
-W1299,,,WNLA17_104,7/31/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,27.0483,yes,yes,yes,yes,,,,,,,mosquito
-W1300,,,WNLA17_105,8/11/17,Cx. quinq.,,,USA,LA,WBR,,,,,24.0417,yes,yes,yes,yes,,,,,,,mosquito
-W1301,,,WNLA17_106,7/6/17,Cx. quinq.,,,USA,LA,WBR,,,,,20.9499,yes,yes,yes,yes,,,,,,,mosquito
-W1302,,,WNLA17_107,7/8/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,27.516,yes,yes,yes,yes,,,,,,,mosquito
-W1303,,,WNLA17_108,8/1/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.6277,yes,yes,yes,yes,,,,,,,mosquito
-W1305,,,WNLA17_110,6/28/17,Cx. quinq.,,,USA,LA,WBR,,,,,18.6219,yes,yes,yes,yes,,,,,,,mosquito
-W1306,,,WNLA17_111,7/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,20.5628,yes,yes,yes,yes,,,,,,,mosquito
-W1307,,,WNLA17_112,7/19/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,24.83,yes,yes,yes,yes,,,,,,,mosquito
-W1308,,,WNLA17_113,7/17/17,Cx. quinq.,,,USA,LA,WBR,,,,,19.7393,yes,yes,yes,yes,,,,,,,mosquito
-W1309,,,WNLA17_114,7/31/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.3438,yes,yes,yes,yes,,,,,,,mosquito
-W1322,,,WNLA18_386,8/15/18,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.2546,yes,yes,yes,yes,,,,,,,mosquito
-W1323,,,WNLA18_388,8/28/18,Cx. quinq.,,,USA,LA,EBR,,,,,26.1119,yes,yes,yes,yes,,,,,,,mosquito
-W1324,,,WNLA18_390,8/30/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.9964,yes,yes,yes,yes,,,,,,,mosquito
-W1326,,,WNLA18_397,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,21.3574,yes,yes,yes,yes,,,,,,,mosquito
-W1327,,,WNLA18_399,8/9/18,Cx. quinq.,,,USA,LA,WBR,,,,,22.3101,yes,yes,yes,yes,,,,,,,mosquito
-W1328,,,WNLA18_401,10/9/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.742,yes,yes,yes,yes,,,,,,,mosquito
-W1329,,,WNLA18_402,8/14/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.587,yes,yes,yes,yes,,,,,,,mosquito
-W1330,,,WNLA18_404,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,24.1371,yes,yes,yes,yes,,,,,,,mosquito
-W1331,,,WNLA18_408,8/28/18,Cx. quinq.,,,USA,LA,Ascension,,,,,24.4785,yes,yes,yes,yes,,,,,,,mosquito
-W1332,,,WNLA18_410,8/16/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.2704,yes,yes,yes,yes,,,,,,,mosquito
-W1334,,,WNLA18_412,8/21/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.1106,yes,yes,yes,yes,,,,,,,mosquito
-W1335,,,WNLA18_413,8/28/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.1479,yes,yes,yes,yes,,,,,,,mosquito
-W1336,,,WNLA18_418,8/22/18,Cx. quinq.,,,USA,LA,EBR,,,,,23.5758,yes,yes,yes,yes,,,,,,,mosquito
-W1337,,,WNLA18_419,8/2/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.1073,yes,yes,yes,yes,,,,,,,mosquito
-W1338,,,WNLA18_425,7/25/18,Cx. quinq.,,,USA,LA,Caddo,,,,,26.5086,yes,yes,yes,yes,,,,,,,mosquito
-W1339,,,WNLA18_427,8/13/18,Cx. quinq.,,,USA,LA,St. Tammany,,,,,25.8339,yes,yes,yes,yes,,,,,,,mosquito
-W1342,,,WNLA18_434,8/23/18,Cx. quinq.,,,USA,LA,WBR,,,,,24.5293,yes,yes,yes,yes,,,,,,,mosquito
-W1344,,,WNLA18_453,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.9268,yes,yes,yes,yes,,,,,,,mosquito
-W1345,,,WNLA18_464,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,31,yes,yes,yes,yes,,,,,,,mosquito
-W1346,,,WNLA18_465,8/4/18,Cx. quinq.,,,USA,LA,Bossier,,,,,26.651,yes,yes,yes,yes,,,,,,,mosquito
-W1353,,,WNLA17_99,6/26/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,21.6764,yes,yes,yes,yes,,,,,,,mosquito
-W1354,,,WNLA17_100,8/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.5521,yes,yes,yes,yes,,,,,,,mosquito
-W1356,,,WNLA17_102,6/21/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,23.1616,yes,yes,yes,yes,,,,,,,mosquito
-W1362,,,WNLA17_43,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,23.7802,yes,yes,yes,yes,,,,,,,mosquito
-W1364,,,WNLA17_49,7/7/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,21.8322,yes,yes,yes,yes,,,,,,,mosquito
-W1367,,,WNLA17_85,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,22.4299,yes,yes,yes,yes,,,,,,,mosquito
-W1368,,,WNLA17_95,7/18/17,Cx. quinq.,,,USA,LA,Allen,,,,,28.0982,yes,yes,yes,yes,,,,,,,mosquito
-W1369,,,WNLA17_151,7/28/17,Cx. quinq.,,,USA,LA,Caddo,,,,,24.0705,yes,yes,yes,yes,,,,,,,mosquito
-W1370,,,WNLA17_170,6/20/17,Cx. quinq.,,,USA,LA,Allen,,,,,Undetermined,yes,yes,yes,yes,,,,,,,mosquito
-W1372,,,WNLA17_179,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,26.5714,yes,yes,yes,yes,,,,,,,mosquito
-W1373,,,WNLA17_185,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,19.7313,yes,yes,yes,yes,,,,,,,mosquito
-W1374,,,WNLA17_189,7/17/17,Cx. quinq.,,,USA,LA,Caddo,,,,,21.7873,yes,yes,yes,yes,,,,,,,mosquito
-W1375,,,WNLA17_224,8/4/17,Cx. quinq.,,,USA,LA,Caddo,,,,,22.6103,yes,yes,yes,yes,,,,,,,mosquito
-W1378,,,WNLA17_263,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,18.0507,yes,yes,yes,yes,,,,,,,mosquito
-W1379,,,WNLA17_275,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,20.6587,yes,yes,yes,yes,,,,,,,mosquito
+scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
+W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,28,,,,,,spokane,mosquito
+W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,27,,,,,,spokane,mosquito
+W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,35,,,,,,pierce,mosquito
+W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
+W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
+W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
+W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,,,,,,spokane,mosquito
+W0950,,,1309050020,9/4/13,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,,,,,,rockingham,mosquito
+W0951,,,1310030042,10/1/13,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,,,,,,rockingham,mosquito
+W0952,,,1509110048,9/9/15,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0953,,,1509160097,9/10/15,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito
+W0954,,,1708040034,7/31/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0955,,,1708040067,8/1/17,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0956,,,1708110012,8/4/17,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0957,,,1708160178,8/10/17,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0958,,,1709130182,9/12/17,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0959,,,1709210004,9/15/17,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,,,,,,rockingham,mosquito
+W0960,,,1709210066,9/19/17,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,,,,,,strafford,mosquito
+W0961,,,1710110064,10/5/17,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito
+W0962,,,1710110081,10/5/17,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,,,,,,rockingham,mosquito
+W0963,,,1807200027,7/16/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0964,,,1808100059,8/7/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0965,,,1808140082,8/9/18,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,,,,,,rockingham,mosquito
+W0966,,,1808200012,8/13/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0967,,,1808200031,8/13/18,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0968,,,1808200033,8/13/18,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0969,,,1808200057,8/14/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0970,,,1808230144,8/20/18,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0971,,,1808230268,8/16/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0972,,,1808230374,8/16/18,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0973,,,1808240039,8/22/18,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0974,,,1808240051,8/22/18,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0975,,,1808300206,8/28/18,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,,,,,,rockingham,mosquito
+W0976,,,1809050088,8/28/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0977,,,1809060023,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0978,,,1809060033,8/30/18,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0979,,,1809130129,9/4/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito
+W0980,,,1809130222,9/11/18,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito
+W0981,,,1809130232,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito
+W0982,,,1809130239,9/11/18,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito
+W0983,,,1809130275,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,,,,,,rockingham,mosquito
+W0984,,,1809200002,9/11/18,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,,,,,,rockingham,mosquito
+W0985,,,1809200048,9/13/18,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito
+W0986,,,1809200183,9/18/18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0987,,,1809200184,9/18/18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0988,,,1809200323,9/18/18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,,,,,,rockingham,mosquito
+W0989,,,1810030033,9/27/18,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0990,,,1810100037,10/4/18,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito
+W0918,,yes,2013-7741.1,2013,Flamingo,,,USA,Virgin Islands,,,,,,,,,,,,,bird
+W0920,,yes,2015-10442.1,2015,Magpie,,,USA,WA,Grant,,,,,,,,,,,,bird
+W0921,,yes,2015-11794.1,2015,Magpie,,,USA,WA,Kittitas,,,,,,,,,,,,bird
+W0922,,yes,2015-11937.1,2015,Red-tailed hawk,,,USA,IA,,,,,,,,,,,,,bird
+W0924,,yes,2015-13052.2,2015,American Paint horse mix,,,USA,WA,Grant,Ephrata,,,,,,,,,,,bird
+W0925,,yes,2016-10167.2,2016,Quarterhorse,,,USA,WA,Spokane,Cheny,,,,,,,,,,,bird
+W0926,,yes,2016-12216.1,2016,Crow,,,USA,WA,Spokane,Spokane,,,,,,,,,,,bird
+W0927,,yes,2017-11015.1,2017,Short-eared owl,,,USA,ID,,Eagle,,,,,,,,,,,bird
+W0929,,yes,2017-11580.1,2017,Bald Eagle,,,USA,ID,,Eagle,,,,,,,,,,,bird
+W0930,,yes,2017-A1952.B2,2017,Quail,,,USA,WA,Walla,Walla Walla,,,,,,,,,,,bird
+W0931,,yes,2017-A2425 B8-3,2017,Pheasant,,,USA,WA,Lincoln,Reardan,,,,,,,,,,,bird
+W0933,,,2010-00942,2010,,Mosquito Pool,,USA,OR,Benton,,,,,21.93,,,,,,,mosquito
+W0936,,,2014-00295,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,32.06,,,,,,,mosquito
+W0937,,,2014-00660,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,28.63,,,,,,,mosquito
+W0938,,,2015-00846,2015,,Mosquito Pool,,USA,WA,Franklin,,,,,28.16,,,,,,,mosquito
+W0939,,,2015-01477,2015,,Mosquito Pool,,USA,WA,Grant,,,,,31.27,,,,,,,mosquito
+W0940,,,2016-00992,2016,,Mosquito Pool,,USA,WA,Grant,,,,,22.08,,,,,,,mosquito
+W0941,,,2016-01640,2016,,Mosquito Pool,,USA,WA,Grant,,,,,30.85,,,,,,,mosquito
+W0942,,,2016-02181,2016,,Mosquito Pool,,USA,OR,Jackson,,,,,27.57,,,,,,,mosquito
+W0943,,,2016-02497,2016,Crow,Brain,,USA,OR,Josephine,,,,,21.2,,,,,,,bird
+W0944,,,2017-00988,2017,,Mosquito Pool,,USA,OR,Umatilla,,,,,28.65,,,,,,,mosquito
+W0945,,,2017-01348,2017,,Mosquito Pool,,USA,WA,Grant,,,,,23.33,,,,,,,mosquito
+W0946,,,2017-01736,2017,Swainson's Hawk,Brain,,USA,OR,Klamath,,,,,23.79,,,,,,,bird
+W0947,,,2018-01636,2018,,Mosquito Superpool,,USA,OR,Morrow,,,,,31.15,,,,,,,mosquito
+W0948,,,2018-02024,2018,,Mosquito Pool,,USA,OR,Umatilla,,,,,23.37,,,,,,,mosquito
+W0949,,,2018-03125,2018,,Mosquito Pool,,USA,OR,Morrow,,,,,28.06,,,,,,,mosquito
+W1298,,,WNLA17_103,7/20/17,Cx. quinq.,,,USA,LA,Calcasieu,,,,,22.5644,,,,,,,mosquito
+W1299,,,WNLA17_104,7/31/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,27.0483,,,,,,,mosquito
+W1300,,,WNLA17_105,8/11/17,Cx. quinq.,,,USA,LA,WBR,,,,,24.0417,,,,,,,mosquito
+W1301,,,WNLA17_106,7/6/17,Cx. quinq.,,,USA,LA,WBR,,,,,20.9499,,,,,,,mosquito
+W1302,,,WNLA17_107,7/8/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,27.516,,,,,,,mosquito
+W1303,,,WNLA17_108,8/1/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.6277,,,,,,,mosquito
+W1305,,,WNLA17_110,6/28/17,Cx. quinq.,,,USA,LA,WBR,,,,,18.6219,,,,,,,mosquito
+W1306,,,WNLA17_111,7/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,20.5628,,,,,,,mosquito
+W1307,,,WNLA17_112,7/19/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,24.83,,,,,,,mosquito
+W1308,,,WNLA17_113,7/17/17,Cx. quinq.,,,USA,LA,WBR,,,,,19.7393,,,,,,,mosquito
+W1309,,,WNLA17_114,7/31/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.3438,,,,,,,mosquito
+W1322,,,WNLA18_386,8/15/18,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.2546,,,,,,,mosquito
+W1323,,,WNLA18_388,8/28/18,Cx. quinq.,,,USA,LA,EBR,,,,,26.1119,,,,,,,mosquito
+W1324,,,WNLA18_390,8/30/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.9964,,,,,,,mosquito
+W1326,,,WNLA18_397,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,21.3574,,,,,,,mosquito
+W1327,,,WNLA18_399,8/9/18,Cx. quinq.,,,USA,LA,WBR,,,,,22.3101,,,,,,,mosquito
+W1328,,,WNLA18_401,10/9/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.742,,,,,,,mosquito
+W1329,,,WNLA18_402,8/14/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.587,,,,,,,mosquito
+W1330,,,WNLA18_404,9/2/18,Cx. quinq.,,,USA,LA,EBR,,,,,24.1371,,,,,,,mosquito
+W1331,,,WNLA18_408,8/28/18,Cx. quinq.,,,USA,LA,Ascension,,,,,24.4785,,,,,,,mosquito
+W1332,,,WNLA18_410,8/16/18,Cx. quinq.,,,USA,LA,WBR,,,,,23.2704,,,,,,,mosquito
+W1334,,,WNLA18_412,8/21/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.1106,,,,,,,mosquito
+W1335,,,WNLA18_413,8/28/18,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.1479,,,,,,,mosquito
+W1336,,,WNLA18_418,8/22/18,Cx. quinq.,,,USA,LA,EBR,,,,,23.5758,,,,,,,mosquito
+W1337,,,WNLA18_419,8/2/18,Cx. quinq.,,,USA,LA,WBR,,,,,21.1073,,,,,,,mosquito
+W1338,,,WNLA18_425,7/25/18,Cx. quinq.,,,USA,LA,Caddo,,,,,26.5086,,,,,,,mosquito
+W1339,,,WNLA18_427,8/13/18,Cx. quinq.,,,USA,LA,St. Tammany,,,,,25.8339,,,,,,,mosquito
+W1342,,,WNLA18_434,8/23/18,Cx. quinq.,,,USA,LA,WBR,,,,,24.5293,,,,,,,mosquito
+W1344,,,WNLA18_453,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,23.9268,,,,,,,mosquito
+W1345,,,WNLA18_464,8/22/18,Cx. quinq.,,,USA,LA,Ascension,,,,,31,,,,,,,mosquito
+W1346,,,WNLA18_465,8/4/18,Cx. quinq.,,,USA,LA,Bossier,,,,,26.651,,,,,,,mosquito
+W1353,,,WNLA17_99,6/26/17,Cx. quinq.,,,USA,LA,St. Tammany,,,,,21.6764,,,,,,,mosquito
+W1354,,,WNLA17_100,8/5/17,Cx. quinq.,,,USA,LA,EBR,,,,,22.5521,,,,,,,mosquito
+W1356,,,WNLA17_102,6/21/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,23.1616,,,,,,,mosquito
+W1362,,,WNLA17_43,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,23.7802,,,,,,,mosquito
+W1364,,,WNLA17_49,7/7/17,Cx. quinq.,,,USA,LA,Ouachita,,,,,21.8322,,,,,,,mosquito
+W1367,,,WNLA17_85,8/1/17,Cx. quinq.,,,USA,LA,Allen,,,,,22.4299,,,,,,,mosquito
+W1368,,,WNLA17_95,7/18/17,Cx. quinq.,,,USA,LA,Allen,,,,,28.0982,,,,,,,mosquito
+W1369,,,WNLA17_151,7/28/17,Cx. quinq.,,,USA,LA,Caddo,,,,,24.0705,,,,,,,mosquito
+W1370,,,WNLA17_170,6/20/17,Cx. quinq.,,,USA,LA,Allen,,,,,Undetermined,,,,,,,mosquito
+W1372,,,WNLA17_179,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,26.5714,,,,,,,mosquito
+W1373,,,WNLA17_185,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,19.7313,,,,,,,mosquito
+W1374,,,WNLA17_189,7/17/17,Cx. quinq.,,,USA,LA,Caddo,,,,,21.7873,,,,,,,mosquito
+W1375,,,WNLA17_224,8/4/17,Cx. quinq.,,,USA,LA,Caddo,,,,,22.6103,,,,,,,mosquito
+W1378,,,WNLA17_263,8/8/17,Cx. quinq.,,,USA,LA,Bossier,,,,,18.0507,,,,,,,mosquito
+W1379,,,WNLA17_275,7/4/17,Cx. quinq.,,,USA,LA,Allen,,,,,20.6587,,,,,,,mosquito
+W1383,,,2002003190,8/8/02,Crow,crow brain,,USA,MN,Redwood,,,,,,,,,,,,
+W1384,,,2002003199,8/8/02,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1385,,,2002003202,8/8/02,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,
+W1386,,,2002003703,8/15/02,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,
+W1387,,,2002003379,8/9/02,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1388,,,2002003381,8/9/02,Crow,crow brain,,USA,MN,Lyon,,,,,,,,,,,,
+W1389,,,2002003385,8/9/02,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,
+W1390,,,2002003386,8/9/02,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1391,,,2002003187,8/8/02,Crow,crow brain,,USA,MN,Filmore,,,,,,,,,,,,
+W1392,,,2002003188,8/8/02,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1393,,,2002003082,8/7/02,Crow,crow brain,,USA,MN,Brown,,,,,,,,,,,,
+W1394,,,2002003088,8/7/02,Crow,crow brain,,USA,MN,Nicollet,,,,,,,,,,,,
+W1395,,,2002003095,8/7/02,Crow,crow brain,,USA,MN,Big Stone,,,,,,,,,,,,
+W1396,,,2002003062,8/7/02,Crow,crow brain,,USA,MN,Stevens,,,,,,,,,,,,
+W1397,,,2002003074,8/7/02,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1398,,,2002003077,8/7/02,Blue Jay,Blue Jay brain,,USA,MN,Carver,,,,,,,,,,,,
+W1399,,,2002003045,8/7/02,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1400,,,2002003048,8/7/02,Crow,crow brain,,USA,MN,Pope,,,,,,,,,,,,
+W1401,,,2002003049,8/7/02,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,
+W1403,,,2002003054,8/7/02,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,
+W1404,,,2002003034,8/7/02,Grobbeak,Grosbeak brain,,USA,MN,St. Louis,,,,,,,,,,,,
+W1407,,,2002003040,8/7/02,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,
+W1408,,,2002003041,8/7/02,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1409,,,2002003042,8/7/02,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1411,,,2002003024,8/7/02,Crow,crow brain,,USA,MN,Benton,,,,,,,,,,,,
+W1412,,,2002003026,8/7/02,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1413,,,2003001687,7/15/03,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1414,,,2003001723,7/17/03,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,
+W1415,,,2003001726,7/17/03,,crow kidney,,USA,MN,Dakota,,,,,,,,,,,,
+W1416,,,2003001729,7/17/03,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,
+W1417,,,2003001735,7/17/03,,Blue Jay kidney,,USA,MN,Anoka,,,,,,,,,,,,
+W1418,,,2003001742,7/17/03,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,
+W1419,,,2003001755,7/14/03,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,
+W1420,,,2003001758,7/17/03,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,
+W1421,,,2003001752,7/18/03,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,
+W1422,,,2003001761,7/17/03,,crow kidney,,USA,MN,Chippewa,,,,,,,,,,,,
+W1423,,,2003001768,7/18/03,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,
+W1424,,,2003001775,7/18/03,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,
+W1425,,,2003001778,7/18/03,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,
+W1426,,,2003001781,7/18/03,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,
+W1427,,,2003001824,7/8/03,,Blue Jay kidney,,USA,MN,Cass,,,,,,,,,,,,
+W1428,,,2003001827,7/10/03,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,
+W1429,,,2003001833,7/23/03,,Goshawk kidney,,USA,MN,Wabasha,,,,,,,,,,,,
+W1430,,,2003001838,7/18/03,,Blue Jay kidney,,USA,MN,Hennepin,,,,,,,,,,,,
+W1431,,,2003001863,7/19/03,,Hawk kidney,,USA,MN,Dakota,,,,,,,,,,,,
+W1432,,,2003001880,7/22/03,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,
+W1433,,,2003001891,7/21/03,,crow kidney,,USA,MN,Anoka,,,,,,,,,,,,
+W1434,,,2003001894,7/23/03,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,
+W1435,,,2003001900,7/22/03,,crow kidney,,USA,MN,Washington,,,,,,,,,,,,
+W1436,,,2003001915,7/28/03,,crow kidney,,USA,MN,Rice,,,,,,,,,,,,
+W1437,,,2003001922,7/28/03,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,
+W1438,,,2003001946,7/23/03,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,
+W1439,,,2003002020,7/25/03,,Blue Jay kidney,,USA,MN,Carver,,,,,,,,,,,,
+W1440,,,2003002023,7/29/03,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,
+W1441,,,2003002038,7/31/03,,crow kidney,,USA,MN,Renville,,,,,,,,,,,,
+W1442,,,2003002041,7/30/03,,crow kidney,,USA,MN,Lyon,,,,,,,,,,,,
+W1443,,,2004001015,6/25/04,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,
+W1444,,,2004001019,6/25/04,,Blue Jay beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1445,,,2004001050,6/28/04,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,
+W1446,,,2004001053,7/1/04,,Blue Jay brain,,USA,MN,Waseca,,,,,,,,,,,,
+W1447,,,2004001054,6/29/04,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,
+W1448,,,2004001055,6/29/04,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,
+W1449,,,2004001056,6/29/04,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,
+W1450,,,2004001057,6/28/04,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1451,,,2004001058,6/28/04,,crow brain,,USA,MN,Fillmore,,,,,,,,,,,,
+W1452,,,2004001078,6/30/04,,crow brain,,USA,MN,Steele,,,,,,,,,,,,
+W1453,,,2004001116,7/7/04,,Blue Jay brain,,USA,MN,Anoka,,,,,,,,,,,,
+W1454,,,2004001118,7/6/04,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,
+W1455,,,2004001127,7/3/04,,Great Horned Owl brain,,USA,MN,Dakota,,,,,,,,,,,,
+W1456,,,2004001129,7/8/04,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,
+W1457,,,2004001130,7/8/04,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,
+W1458,,,2004001136,7/5/04,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,
+W1459,,,2004001202,7/3/04,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,
+W1460,,,2004001227,7/10/04,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,
+W1461,,,2004001233,7/14/04,,crow brain,,USA,MN,Renville,,,,,,,,,,,,
+W1462,,,2004001239,7/13/04,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,
+W1463,,,2004001163,7/8/04,,Robin brain,,USA,MN,Scott,,,,,,,,,,,,
+W1464,,,2004001161,7/9/04,,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1465,,,2004001256,7/16/04,,crow brain,,USA,MN,Mower,,,,,,,,,,,,
+W1466,,,2004001267,7/15/04,,Blue Jay beak swab,,USA,MN,Anoka,,,,,,,,,,,,
+W1467,,,2004001244,7/13/04,,crow brain,,USA,MN,Sherburne,,,,,,,,,,,,
+W1468,,,2004001327,7/16/04,,crow brain,,USA,MN,Crow Wing,,,,,,,,,,,,
+W1469,,,2004001328,7/20/04,,House Sparrow brain,,USA,MN,Dakota,,,,,,,,,,,,
+W1470,,,2004001331,7/14/04,,crow brain,,USA,MN,Beltrami,,,,,,,,,,,,
+W1471,,,2004001332,7/19/04,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,
+W1472,,,2004001249,7/14/04,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1473,,,2005001406,7/19/05,,crow brain,,USA,MN,Isanti,,,,,,,,,,,,
+W1474,,,2005001470,7/21/05,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,
+W1475,,,2005001471,7/21/05,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,
+W1476,,,2005001418,7/12/05,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,
+W1477,,,2005001419,7/11/05,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,
+W1478,,,2005001602,7/27/05,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,
+W1479,,,2005001607,7/24/05,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,
+W1480,,,2005001625,7/29/05,,Snowy Owl brain,,USA,MN,St. Louis,,,,,,,,,,,,
+W1481,,,2005001626,7/28/05,,Coopers Hawk brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W1482,,,2005001716,8/1/05,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,
+W1483,,,2005001717,8/2/05,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1484,,,2005001718,8/2/05,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,
+W1485,,,2005001719,8/1/05,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,
+W1486,,,2005001721,8/1/05,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1488,,,2005001746,8/2/05,,crow beak swab,,USA,MN,Scott,,,,,,,,,,,,
+W1489,,,2005001747,8/3/05,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,
+W1490,,,2005001737,7/26/05,,crow brain,,USA,MN,Mahnomen,,,,,,,,,,,,
+W1491,,,2005001738,8/3/05,,crow brain,,USA,MN,Mower,,,,,,,,,,,,
+W1492,,,2005001751,8/9/05,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,
+W1493,,,2005001927,8/17/05,,Blue Jay brain,,USA,MN,Cass,,,,,,,,,,,,
+W1494,,,2005002025,8/23/05,,Bald Eagle brain,,USA,MN,Meeker,,,,,,,,,,,,
+W1495,,,2005002032,8/22/05,,crow beak swab,,USA,MN,Dakota,,,,,,,,,,,,
+W1496,,,2005002035,8/22/05,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,
+W1497,,,2005002039,8/11/05,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,
+W1498,,,2005002040,8/11/05,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,
+W1499,,,2005002103,8/24/05,,crow brain,,USA,MN,Lyon,,,,,,,,,,,,
+W1500,,,2005002118,9/2/05,,crow brain,,USA,MN,Pennington,,,,,,,,,,,,
+W1501,,,2005002130,9/5/05,,Red-Tailed Hawk,,USA,MN,Stearns,,,,,,,,,,,,
+W1502,,,2005002143,9/6/05,,Great Grey Owl brain,,USA,MN,Ramsey,,,,,,,,,,,,

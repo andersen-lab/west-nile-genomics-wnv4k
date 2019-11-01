@@ -15,6 +15,8 @@ The samples from NH were provided by Denise Bolton, Abigail Mathewson, Carolyn F
 
 Tha samples from LA were provided by Udeni Balasuriya, Rebecca Christofferson, Tarra Harden, Zelalem Mekuria, Laura Peak, Alma Roy, and Keith Strother from the [Louisiana Animal Disease Diagnostic Laboratory](https://www.lsu.edu/vetmed/laddl/) at Louisiana State University.
 
+The samples from MN were provided by David Neitzel from the [Minnesota Department of Health](https://www.health.state.mn.us/index.html).
+
 #### Data
 Below is a table showing the number of sequenced genomes by state.
 
@@ -24,11 +26,12 @@ Below is a table showing the number of sequenced genomes by state.
 | IA    | 1     |
 | ID    | 2     |
 | LA    | 46    |
+| MN    | 85    |
 | NH    | 41    |
 | OR    | 10    |
 | WA    | 7     |
 | Other | 1     |
-| Total | 860   |
+| Total | 933   |
 
 
 **Disclaimer**. Please note that this data is released as work in progress by the WestNile 4K Project and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments.
