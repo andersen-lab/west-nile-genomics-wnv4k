@@ -17,7 +17,12 @@ Tha samples from LA were provided by Udeni Balasuriya, Rebecca Christofferson, T
 
 The samples from MN were provided by David Neitzel from the [Minnesota Department of Health](https://www.health.state.mn.us/index.html).
 
-#### Data
+#### Raw Data
+
+The BAM files are available on [Google Cloud](https://console.cloud.google.com/storage/browser/andersen-lab_project_westnile4k_genomics).
+
+The sequencing is being performed using an amplicon-based sequencing scheme using [PrimalSeq](https://www.nature.com/articles/nprot.2017.066). Our full protocol is available online [here](https://docs.google.com/document/d/1PilT4w5jHO-ROsE8TL5WBGa0wSCdTHAsNl1LIOYiTgk/edit?usp=sharing). Sequencing data is aligned using [bwa](https://github.com/lh3/bwa) and processed using [iVar](https://github.com/andersen-lab/ivar) ([Grubaguh et al. Genome Biology 2019](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1618-7)).
+
 Below is a table showing the number of sequenced genomes by state.
 
 | State | Count |
