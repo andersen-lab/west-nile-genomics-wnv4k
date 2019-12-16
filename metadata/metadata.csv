@@ -1,11 +1,11 @@
 scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
-W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,28,,,,,,spokane,mosquito
-W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,27,,,,,,spokane,mosquito
-W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,35,,,,,,pierce,mosquito
-W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
-W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
-W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25083,-122.41169,33,,,,,,pierce,mosquito
-W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.62719,-117.38417,15,,,,,,spokane,mosquito
+W824,,yes,801T-P1,8/2/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,28,,,,,,spokane,mosquito
+W825,,yes,808T-P1,8/8/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,27,,,,,,spokane,mosquito
+W826,,yes,814G-P7,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,35,,,,,,pierce,mosquito
+W827,,yes,814G-P8,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W828,,yes,814G-P9,8/14/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W829,,yes,814G-P10,8/14/18,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W830,,yes,815T-P1,8/25/18,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,15,,,,,,spokane,mosquito
 W0950,,,1309050020,9/4/13,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,,,,,,rockingham,mosquito
 W0951,,,1310030042,10/1/13,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,,,,,,rockingham,mosquito
 W0952,,,1509110048,9/9/15,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
@@ -234,3 +234,56 @@ W1499,,,2005002103,8/24/05,,crow brain,,USA,MN,Lyon,,,,,,,,,,,,
 W1500,,,2005002118,9/2/05,,crow brain,,USA,MN,Pennington,,,,,,,,,,,,
 W1501,,,2005002130,9/5/05,,Red-Tailed Hawk,,USA,MN,Stearns,,,,,,,,,,,,
 W1502,,,2005002143,9/6/05,,Great Grey Owl brain,,USA,MN,Ramsey,,,,,,,,,,,,
+W0831,,yes,18-08904,7/13/18,,Pooled mosquitoes,5269 Secor Rd,USA,OH,Lucas,Toledo,,41.711,-83.625,,,,,,,,
+W0832,,yes,18-08908,7/17/18,,Pooled mosquitoes,11 N McCord Rd,USA,OH,Lucas,Holland,,41.639,-83.704,,,,,,,,
+W0835,,yes,18-08913,7/17/18,,Pooled mosquitoes,2225 Nebraska Ave,USA,OH,Lucas,Toledo,,41.640,-83.598,,,,,,,,
+W0836,,yes,18-08924,7/17/18,,Pooled mosquitoes,1240 Columbus Ave,USA,OH,Lucas,Holland,,41.618,-83.710,,,,,,,,
+W0839,,yes,18-08944,7/17/18,,Pooled mosquitoes,5639 Benore Rd,USA,OH,Lucas,Toledo,,41.715,-83.514,,,,,,,,
+W0840,,yes,18-08951,7/18/18,,Pooled mosquitoes,1144 Hugo Ave,USA,OH,Lucas,Maumee,,41.582,-83.629,,,,,,,,
+W0842,,yes,18-09459,7/17/18,,Pooled mosquitoes,1929 Kenny Rd,USA,OH,Franklin,Columbus,,39.999,-83.035,,,,,,,,
+W0845,,yes,18-09468,7/17/18,,Pooled mosquitoes,499 Medick Way,USA,OH,Franklin,Worthington,,40.092,-83.030,,,,,,,,
+W0848,,yes,18-09482,7/18/18,,Pooled mosquitoes,575 Lazelle Rd,USA,OH,Franklin,Columbus,,40.132,-82.987,,,,,,,,
+W0856,,yes,18-09545,7/18/18,,Pooled mosquitoes,331 E Wilson Bridge Rd,USA,OH,Franklin,Worthington,,40.107,-83.007,,,,,,,,
+W0858,,yes,18-09562,7/17/18,,Pooled mosquitoes,2766 Walnut Ridge Rd,USA,OH,Summit,Bath,,41.162,-81.612,,,,,,,,
+W0860,,yes,18-09572,7/17/18,,Pooled mosquitoes,Garfield Ave,USA,OH,Summit,Cuyahoga Falls,,41.146,-81.478,,,,,,,,
+W0861,,yes,18-09574,7/17/18,,Pooled mosquitoes,529 Forest Oaks Dr,USA,OH,Summit,Fairlawn,,41.121,-81.646,,,,,,,,
+W0865,,yes,18-09589,7/17/18,,Pooled mosquitoes,4899 Massillon Rd,USA,OH,Summit,Green,,40.927,-81.461,,,,,,,,
+W0870,,yes,18-09620,7/17/18,,Pooled mosquitoes,581 Maple Ct,USA,OH,Summit,Macedonia,,41.306,-81.511,,,,,,,,
+W0875,,yes,18-10229,7/20/18,,Pooled mosquitoes,3845 William P. Dooley Bypass,USA,OH,Hamilton,Cincinnati,,39.155,-84.540,,,,,,,,
+W0881,,yes,18-10249,7/26/18,,Pooled mosquitoes,48900 N Market St,USA,OH,Belmont,Clairsville,,40.091,-80.906,,,,,,,,
+W0885,,yes,18-10750,7/17/18,,Pooled mosquitoes,5290 Trailsend Ct,USA,OH,Lorain,Sheffiled Village,,41.444,-82.078,,,,,,,,
+W0891,,yes,18-10779,7/25/18,,Pooled mosquitoes,37109 Royalton Rd,USA,OH,Lorain,Grafton,,41.313,-82.038,,,,,,,,
+W0897,,yes,18-10802,7/24/18,,Pooled mosquitoes,4669 Frederick Pike,USA,OH,Montgomery,Dayton,,39.485,-84.122,,,,,,,,
+W0899,,yes,18-10811,7/24/18,,Pooled mosquitoes,3915 Pilgrim Rd,USA,OH,Montgomery,Dayton,,39.480,-84.120,,,,,,,,
+W0901,,yes,18-10815,7/25/18,,Pooled mosquitoes,3509 Stonequarry Rd,USA,OH,Montgomery,Dayton,,39.524,-84.132,,,,,,,,
+W0902,,yes,18-10827,7/27/18,,Pooled mosquitoes,6064 Millshire Dr,USA,OH,Montgomery,Centerville,,39.392,-84.081,,,,,,,,
+W1503,,yes,18-10804,7/24/18,,Pooled mosquitoes,1301 E Siebenthaler Ave,USA,OH,Montgomery,Dayton,,39.481,-84.121,,,,,,,,
+W0909,,yes,18-11512,7/31/18,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,
+W1505,,yes,18-11511,7/31/18,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,
+W1507,,yes,18-11516,7/31/18,,Pooled mosquitoes,04226 Co Rd 12,USA,OH,Williams,Bryan,,41.474,-84.591,,,,,,,,
+W1517,plate 1,Yes,46424,7/5/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,
+W1522,plate 1,Yes,46519,7/12/18,Culex restuans,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,
+W1525,plate 1,Yes,46545,7/12/18,Culex restuans,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,
+W1529,plate 1,Yes,46574,7/12/18,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.770,-87.704,,,,,,,,
+W1530,plate 1,Yes,46577,7/12/18,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,
+W1531,plate 1,Yes,46593,7/12/18,Culex restuans,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.680,,,,,,,,
+W1537,plate 1,Yes,46632,7/19/18,Culex restuans,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,
+W1538,plate 1,Yes,46634,7/19/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,
+W1540,plate 1,Yes,46643,7/19/18,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,
+W1564,plate 1,Yes,46775,7/26/18,Culex restuans,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,
+W1568,plate 2,Yes,46804,7/26/18,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.890,-87.691,,,,,,,,
+W1580,plate 2,Yes,46858,7/26/18,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,
+W1586,plate 2,Yes,46870,8/2/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.978,-87.877,,,,,,,,
+W1614,plate 2,Yes,47002,8/9/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,
+W1630,plate 2,Yes,47060,8/9/18,Culex restuans,Pooled Mosquitoes,3741 S Pulaski Rd,USA,IL,Cook,Chicago,,41.825,-87.723,,,,,,,,
+W1633,plate 3,Yes,47066,8/9/18,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.770,-87.704,,,,,,,,
+W1638,plate 3,Yes,47098,8/9/18,Culex sp.,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,
+W1647,plate 3,Yes,47138,8/16/18,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,
+W1648,plate 3,Yes,47141,8/16/18,Culex sp.,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,
+W1656,plate 3,Yes,47170,8/16/18,Culex sp.,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,
+W1668,plate 3,Yes,47195,8/16/18,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.890,-87.691,,,,,,,,
+W1670,plate 3,Yes,47197,8/16/18,Culex restuans,Pooled Mosquitoes,2150 N Cannon Dr,USA,IL,Cook,Chicago,,41.920,-87.634,,,,,,,,
+W1685,plate 3,Yes,47263,8/23/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,
+W1688,plate 3,Yes,47266,8/23/18,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,
+W1702,plate 4,Yes,47388,8/30/18,Culex sp.,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,
+W1705,plate 4,Yes,47437,8/30/18,Culex sp.,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.680,,,,,,,,
