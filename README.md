@@ -16,6 +16,7 @@ By partnering with West Nile virus surveillance labs across the country, the [We
 | Minnesota                                                                | David Neitzel from the [Minnesota Department of Health](https://www.health.state.mn.us/index.html)                                                                                                                                                                                                                                                                                                                                        |
 | Ohio                                                                     | Leeanne Garrett and Kevin Sohner from the [Ohio Department of Health](https://odh.ohio.gov/wps/portal/gov/odh/home)                                                              |
 | Illinois                                                                 | Alex Westrich, Claudia Blanco, and Raed Mansour from the [City of Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html)                          |
+| Colorado                                                                 | Greg Ebel, Reyes Murrieta, and Joseph Fauver from [Colorado State University](http://csu-cvmbs.colostate.edu/academics/mip/aidl/Pages/default.aspx)                              |
 
 
 #### Raw Data
@@ -29,6 +30,7 @@ Below is a table showing the number of sequenced genomes by state.
 | State | Count |
 |:------|:------|
 | CA    | 740   |
+| CO    | 94    |
 | IA    | 1     |
 | ID    | 2     |
 | IL    | 26    |
@@ -39,7 +41,7 @@ Below is a table showing the number of sequenced genomes by state.
 | OR    | 10    |
 | WA    | 7     |
 | Other | 1     |
-| Total | 1014  |
+| Total | 1108  |
 
 
 **Disclaimer**. Please note that this data is released as work in progress by the WestNile 4K Project and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments.
