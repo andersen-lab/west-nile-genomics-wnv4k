@@ -16,7 +16,7 @@ By partnering with West Nile virus surveillance labs across the country, the [We
 | Minnesota                                                                | David Neitzel from the [Minnesota Department of Health](https://www.health.state.mn.us/index.html)                                                                                                                                                                                                                                                                                                                                        |
 | Ohio                                                                     | Leeanne Garrett and Kevin Sohner from the [Ohio Department of Health](https://odh.ohio.gov/wps/portal/gov/odh/home)                                                              |
 | Illinois                                                                 | Alex Westrich, Claudia Blanco, and Raed Mansour from the [City of Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html)                          |
-| Colorado                                                                 | Greg Ebel, Reyes Murrieta, and Joseph Fauver from [Colorado State University](http://csu-cvmbs.colostate.edu/academics/mip/aidl/Pages/default.aspx)                              |
+| Colorado                                                                 | Greg Ebel, Reyes Murrieta, Joseph Fauver, and Michael C. Young from [Colorado State University](http://csu-cvmbs.colostate.edu/academics/mip/aidl/Pages/default.aspx)                              |
 
 
 #### Raw Data
