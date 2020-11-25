@@ -39,9 +39,9 @@ Below is a table showing the number of sequenced genomes by state.
 | NH    | 41    |
 | OH    | 27    |
 | OR    | 10    |
-| WA    | 7     |
+| WA    | 19    |
 | Other | 1     |
-| Total | 1108  |
+| Total | 1119  |
 
 
 **Disclaimer**. Please note that this data is released as work in progress by the WestNile 4K Project and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments.
