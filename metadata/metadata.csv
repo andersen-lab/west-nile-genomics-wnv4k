@@ -1,395 +1,512 @@
-scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host,,,,,
-W824,,yes,801T-P1,2018-08-02,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,28,,,,,,spokane,mosquito,,,,,
-W825,,yes,808T-P1,2018-08-08,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,27,,,,,,spokane,mosquito,,,,,
-W826,,yes,814G-P7,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,35,,,,,,pierce,mosquito,,,,,
-W827,,yes,814G-P8,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito,,,,,
-W828,,yes,814G-P9,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito,,,,,
-W829,,yes,814G-P10,2018-08-14,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito,,,,,
-W830,,yes,815T-P1,2018-08-25,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,15,,,,,,spokane,mosquito,,,,,
-W0950,,,1309050020,2013-09-04,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,,,,,,rockingham,mosquito,,,,,
-W0951,,,1310030042,2013-10-01,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,,,,,,rockingham,mosquito,,,,,
-W0952,,,1509110048,2015-09-09,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0953,,,1509160097,2015-09-10,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito,,,,,
-W0954,,,1708040034,2017-07-31,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0955,,,1708040067,2017-08-01,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0956,,,1708110012,2017-08-04,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito,,,,,
-W0957,,,1708160178,2017-08-10,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito,,,,,
-W0958,,,1709130182,2017-09-12,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito,,,,,
-W0959,,,1709210004,2017-09-15,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,,,,,,rockingham,mosquito,,,,,
-W0960,,,1709210066,2017-09-19,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,,,,,,strafford,mosquito,,,,,
-W0961,,,1710110064,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito,,,,,
-W0962,,,1710110081,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,,,,,,rockingham,mosquito,,,,,
-W0963,,,1807200027,2018-07-16,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0964,,,1808100059,2018-08-07,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0965,,,1808140082,2018-08-09,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,,,,,,rockingham,mosquito,,,,,
-W0966,,,1808200012,2018-08-13,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0967,,,1808200031,2018-08-13,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0968,,,1808200033,2018-08-13,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0969,,,1808200057,2018-08-14,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0970,,,1808230144,2018-08-20,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0971,,,1808230268,2018-08-16,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito,,,,,
-W0972,,,1808230374,2018-08-16,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito,,,,,
-W0973,,,1808240039,2018-08-22,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0974,,,1808240051,2018-08-22,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito,,,,,
-W0975,,,1808300206,2018-08-28,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,,,,,,rockingham,mosquito,,,,,
-W0976,,,1809050088,2018-08-28,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito,,,,,
-W0977,,,1809060023,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito,,,,,
-W0978,,,1809060033,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito,,,,,
-W0979,,,1809130129,2018-09-04,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito,,,,,
-W0980,,,1809130222,2018-09-11,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito,,,,,
-W0981,,,1809130232,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito,,,,,
-W0982,,,1809130239,2018-09-11,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito,,,,,
-W0983,,,1809130275,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,,,,,,rockingham,mosquito,,,,,
-W0984,,,1809200002,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,,,,,,rockingham,mosquito,,,,,
-W0985,,,1809200048,2018-09-13,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito,,,,,
-W0986,,,1809200183,2018-09-18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito,,,,,
-W0987,,,1809200184,2018-09-18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito,,,,,
-W0988,,,1809200323,2018-09-18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,,,,,,rockingham,mosquito,,,,,
-W0989,,,1810030033,2018-09-27,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito,,,,,
-W0990,,,1810100037,2018-10-04,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito,,,,,
-W0918,,yes,2013-7741.1,2013,Flamingo,,,USA,Virgin Islands,,,,,,,,,,,,,bird,,,,,
-W0920,,yes,2015-10442.1,2015,Magpie,,,USA,WA,Grant,,,,,,,,,,,,bird,,,,,
-W0921,,yes,2015-11794.1,2015,Magpie,,,USA,WA,Kittitas,,,,,,,,,,,,bird,,,,,
-W0922,,yes,2015-11937.1,2015,Red-tailed hawk,,,USA,IA,,,,,,,,,,,,,bird,,,,,
-W0924,,yes,2015-13052.2,2015,American Paint horse mix,,,USA,WA,Grant,Ephrata,,,,,,,,,,,bird,,,,,
-W0925,,yes,2016-10167.2,2016,Quarterhorse,,,USA,WA,Spokane,Cheny,,,,,,,,,,,bird,,,,,
-W0926,,yes,2016-12216.1,2016,Crow,,,USA,WA,Spokane,Spokane,,,,,,,,,,,bird,,,,,
-W0927,,yes,2017-11015.1,2017,Short-eared owl,,,USA,ID,,Eagle,,,,,,,,,,,bird,,,,,
-W0929,,yes,2017-11580.1,2017,Bald Eagle,,,USA,ID,,Eagle,,,,,,,,,,,bird,,,,,
-W0930,,yes,2017-A1952.B2,2017,Quail,,,USA,WA,Walla,Walla Walla,,,,,,,,,,,bird,,,,,
-W0931,,yes,2017-A2425 B8-3,2017,Pheasant,,,USA,WA,Lincoln,Reardan,,,,,,,,,,,bird,,,,,
-W0933,,,2010-00942,2010,,Mosquito Pool,,USA,OR,Benton,,,,,21.93,,,,,,,mosquito,,,,,
-W0936,,,2014-00295,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,32.06,,,,,,,mosquito,,,,,
-W0937,,,2014-00660,2014,,Mosquito Pool,,USA,OR,Malheur,,,,,28.63,,,,,,,mosquito,,,,,
-W0938,,,2015-00846,2015,,Mosquito Pool,,USA,WA,Franklin,,,,,28.16,,,,,,,mosquito,,,,,
-W0939,,,2015-01477,2015,,Mosquito Pool,,USA,WA,Grant,,,,,31.27,,,,,,,mosquito,,,,,
-W0940,,,2016-00992,2016,,Mosquito Pool,,USA,WA,Grant,,,,,22.08,,,,,,,mosquito,,,,,
-W0941,,,2016-01640,2016,,Mosquito Pool,,USA,WA,Grant,,,,,30.85,,,,,,,mosquito,,,,,
-W0942,,,2016-02181,2016,,Mosquito Pool,,USA,OR,Jackson,,,,,27.57,,,,,,,mosquito,,,,,
-W0943,,,2016-02497,2016,Crow,Brain,,USA,OR,Josephine,,,,,21.2,,,,,,,bird,,,,,
-W0944,,,2017-00988,2017,,Mosquito Pool,,USA,OR,Umatilla,,,,,28.65,,,,,,,mosquito,,,,,
-W0945,,,2017-01348,2017,,Mosquito Pool,,USA,WA,Grant,,,,,23.33,,,,,,,mosquito,,,,,
-W0946,,,2017-01736,2017,Swainson's Hawk,Brain,,USA,OR,Klamath,,,,,23.79,,,,,,,bird,,,,,
-W0947,,,2018-01636,2018,,Mosquito Superpool,,USA,OR,Morrow,,,,,31.15,,,,,,,mosquito,,,,,
-W0948,,,2018-02024,2018,,Mosquito Pool,,USA,OR,Umatilla,,,,,23.37,,,,,,,mosquito,,,,,
-W0949,,,2018-03125,2018,,Mosquito Pool,,USA,OR,Morrow,,,,,28.06,,,,,,,mosquito,,,,,
-W1298,,,WNLA17_103,2017-07-20,Cx. quinq.,,,USA,LA,Calcasieu,,,,,22.5644,,,,,,,mosquito,,,,,
-W1299,,,WNLA17_104,2017-07-31,Cx. quinq.,,,USA,LA,St. Tammany,,,,,27.0483,,,,,,,mosquito,,,,,
-W1300,,,WNLA17_105,2017-08-11,Cx. quinq.,,,USA,LA,WBR,,,,,24.0417,,,,,,,mosquito,,,,,
-W1301,,,WNLA17_106,2017-07-06,Cx. quinq.,,,USA,LA,WBR,,,,,20.9499,,,,,,,mosquito,,,,,
-W1302,,,WNLA17_107,2017-07-08,Cx. quinq.,,,USA,LA,Ouachita,,,,,27.516,,,,,,,mosquito,,,,,
-W1303,,,WNLA17_108,2017-08-01,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.6277,,,,,,,mosquito,,,,,
-W1305,,,WNLA17_110,2017-06-28,Cx. quinq.,,,USA,LA,WBR,,,,,18.6219,,,,,,,mosquito,,,,,
-W1306,,,WNLA17_111,2017-07-05,Cx. quinq.,,,USA,LA,EBR,,,,,20.5628,,,,,,,mosquito,,,,,
-W1307,,,WNLA17_112,2017-07-19,Cx. quinq.,,,USA,LA,Ouachita,,,,,24.83,,,,,,,mosquito,,,,,
-W1308,,,WNLA17_113,2017-07-17,Cx. quinq.,,,USA,LA,WBR,,,,,19.7393,,,,,,,mosquito,,,,,
-W1309,,,WNLA17_114,2017-07-31,Cx. quinq.,,,USA,LA,EBR,,,,,22.3438,,,,,,,mosquito,,,,,
-W1322,,,WNLA18_386,2018-08-15,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.2546,,,,,,,mosquito,,,,,
-W1323,,,WNLA18_388,2018-08-28,Cx. quinq.,,,USA,LA,EBR,,,,,26.1119,,,,,,,mosquito,,,,,
-W1324,,,WNLA18_390,2018-08-30,Cx. quinq.,,,USA,LA,WBR,,,,,23.9964,,,,,,,mosquito,,,,,
-W1326,,,WNLA18_397,2018-09-02,Cx. quinq.,,,USA,LA,EBR,,,,,21.3574,,,,,,,mosquito,,,,,
-W1327,,,WNLA18_399,2018-08-09,Cx. quinq.,,,USA,LA,WBR,,,,,22.3101,,,,,,,mosquito,,,,,
-W1328,,,WNLA18_401,2018-10-09,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.742,,,,,,,mosquito,,,,,
-W1329,,,WNLA18_402,2018-08-14,Cx. quinq.,,,USA,LA,WBR,,,,,21.587,,,,,,,mosquito,,,,,
-W1330,,,WNLA18_404,2018-09-02,Cx. quinq.,,,USA,LA,EBR,,,,,24.1371,,,,,,,mosquito,,,,,
-W1331,,,WNLA18_408,2018-08-28,Cx. quinq.,,,USA,LA,Ascension,,,,,24.4785,,,,,,,mosquito,,,,,
-W1332,,,WNLA18_410,2018-08-16,Cx. quinq.,,,USA,LA,WBR,,,,,23.2704,,,,,,,mosquito,,,,,
-W1334,,,WNLA18_412,2018-08-21,Cx. quinq.,,,USA,LA,Ascension,,,,,23.1106,,,,,,,mosquito,,,,,
-W1335,,,WNLA18_413,2018-08-28,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.1479,,,,,,,mosquito,,,,,
-W1336,,,WNLA18_418,2018-08-22,Cx. quinq.,,,USA,LA,EBR,,,,,23.5758,,,,,,,mosquito,,,,,
-W1337,,,WNLA18_419,2018-08-02,Cx. quinq.,,,USA,LA,WBR,,,,,21.1073,,,,,,,mosquito,,,,,
-W1338,,,WNLA18_425,2018-07-25,Cx. quinq.,,,USA,LA,Caddo,,,,,26.5086,,,,,,,mosquito,,,,,
-W1339,,,WNLA18_427,2018-08-13,Cx. quinq.,,,USA,LA,St. Tammany,,,,,25.8339,,,,,,,mosquito,,,,,
-W1342,,,WNLA18_434,2018-08-23,Cx. quinq.,,,USA,LA,WBR,,,,,24.5293,,,,,,,mosquito,,,,,
-W1344,,,WNLA18_453,2018-08-22,Cx. quinq.,,,USA,LA,Ascension,,,,,23.9268,,,,,,,mosquito,,,,,
-W1345,,,WNLA18_464,2018-08-22,Cx. quinq.,,,USA,LA,Ascension,,,,,31,,,,,,,mosquito,,,,,
-W1346,,,WNLA18_465,2018-08-04,Cx. quinq.,,,USA,LA,Bossier,,,,,26.651,,,,,,,mosquito,,,,,
-W1353,,,WNLA17_99,2017-06-26,Cx. quinq.,,,USA,LA,St. Tammany,,,,,21.6764,,,,,,,mosquito,,,,,
-W1354,,,WNLA17_100,2017-08-05,Cx. quinq.,,,USA,LA,EBR,,,,,22.5521,,,,,,,mosquito,,,,,
-W1356,,,WNLA17_102,2017-06-21,Cx. quinq.,,,USA,LA,Ouachita,,,,,23.1616,,,,,,,mosquito,,,,,
-W1362,,,WNLA17_43,2017-08-01,Cx. quinq.,,,USA,LA,Allen,,,,,23.7802,,,,,,,mosquito,,,,,
-W1364,,,WNLA17_49,2017-07-07,Cx. quinq.,,,USA,LA,Ouachita,,,,,21.8322,,,,,,,mosquito,,,,,
-W1367,,,WNLA17_85,2017-08-01,Cx. quinq.,,,USA,LA,Allen,,,,,22.4299,,,,,,,mosquito,,,,,
-W1368,,,WNLA17_95,2017-07-18,Cx. quinq.,,,USA,LA,Allen,,,,,28.0982,,,,,,,mosquito,,,,,
-W1369,,,WNLA17_151,2017-07-28,Cx. quinq.,,,USA,LA,Caddo,,,,,24.0705,,,,,,,mosquito,,,,,
-W1370,,,WNLA17_170,2017-06-20,Cx. quinq.,,,USA,LA,Allen,,,,,Undetermined,,,,,,,mosquito,,,,,
-W1372,,,WNLA17_179,2017-08-08,Cx. quinq.,,,USA,LA,Bossier,,,,,26.5714,,,,,,,mosquito,,,,,
-W1373,,,WNLA17_185,2017-07-04,Cx. quinq.,,,USA,LA,Allen,,,,,19.7313,,,,,,,mosquito,,,,,
-W1374,,,WNLA17_189,2017-07-17,Cx. quinq.,,,USA,LA,Caddo,,,,,21.7873,,,,,,,mosquito,,,,,
-W1375,,,WNLA17_224,2017-08-04,Cx. quinq.,,,USA,LA,Caddo,,,,,22.6103,,,,,,,mosquito,,,,,
-W1378,,,WNLA17_263,2017-08-08,Cx. quinq.,,,USA,LA,Bossier,,,,,18.0507,,,,,,,mosquito,,,,,
-W1379,,,WNLA17_275,2017-07-04,Cx. quinq.,,,USA,LA,Allen,,,,,20.6587,,,,,,,mosquito,,,,,
-W1383,,,2002003190,2002-08-08,Crow,crow brain,,USA,MN,Redwood,,,,,,,,,,,,,,,,,
-W1384,,,2002003199,2002-08-08,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1385,,,2002003202,2002-08-08,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1386,,,2002003703,2002-08-15,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,,,,,,
-W1387,,,2002003379,2002-08-09,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1388,,,2002003381,2002-08-09,Crow,crow brain,,USA,MN,Lyon,,,,,,,,,,,,,,,,,
-W1389,,,2002003385,2002-08-09,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,,,,,,
-W1390,,,2002003386,2002-08-09,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1391,,,2002003187,2002-08-08,Crow,crow brain,,USA,MN,Filmore,,,,,,,,,,,,,,,,,
-W1392,,,2002003188,2002-08-08,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1393,,,2002003082,2002-08-07,Crow,crow brain,,USA,MN,Brown,,,,,,,,,,,,,,,,,
-W1394,,,2002003088,2002-08-07,Crow,crow brain,,USA,MN,Nicollet,,,,,,,,,,,,,,,,,
-W1395,,,2002003095,2002-08-07,Crow,crow brain,,USA,MN,Big Stone,,,,,,,,,,,,,,,,,
-W1396,,,2002003062,2002-08-07,Crow,crow brain,,USA,MN,Stevens,,,,,,,,,,,,,,,,,
-W1397,,,2002003074,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1398,,,2002003077,2002-08-07,Blue Jay,Blue Jay brain,,USA,MN,Carver,,,,,,,,,,,,,,,,,
-W1399,,,2002003045,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1400,,,2002003048,2002-08-07,Crow,crow brain,,USA,MN,Pope,,,,,,,,,,,,,,,,,
-W1401,,,2002003049,2002-08-07,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1403,,,2002003054,2002-08-07,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,,,,,,
-W1404,,,2002003034,2002-08-07,Grobbeak,Grosbeak brain,,USA,MN,St. Louis,,,,,,,,,,,,,,,,,
-W1407,,,2002003040,2002-08-07,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,,,,,,
-W1408,,,2002003041,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1409,,,2002003042,2002-08-07,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1411,,,2002003024,2002-08-07,Crow,crow brain,,USA,MN,Benton,,,,,,,,,,,,,,,,,
-W1412,,,2002003026,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1413,,,2003001687,2003-07-15,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1414,,,2003001723,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1415,,,2003001726,2003-07-17,,crow kidney,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1416,,,2003001729,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1417,,,2003001735,2003-07-17,,Blue Jay kidney,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1418,,,2003001742,2003-07-17,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1419,,,2003001755,2003-07-14,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,,,,,,
-W1420,,,2003001758,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1421,,,2003001752,2003-07-18,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,,,,,,
-W1422,,,2003001761,2003-07-17,,crow kidney,,USA,MN,Chippewa,,,,,,,,,,,,,,,,,
-W1423,,,2003001768,2003-07-18,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,,,,,,
-W1424,,,2003001775,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1425,,,2003001778,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1426,,,2003001781,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1427,,,2003001824,2003-07-08,,Blue Jay kidney,,USA,MN,Cass,,,,,,,,,,,,,,,,,
-W1428,,,2003001827,2003-07-10,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,,,,,,
-W1429,,,2003001833,2003-07-23,,Goshawk kidney,,USA,MN,Wabasha,,,,,,,,,,,,,,,,,
-W1430,,,2003001838,2003-07-18,,Blue Jay kidney,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1431,,,2003001863,2003-07-19,,Hawk kidney,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1432,,,2003001880,2003-07-22,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,,,,,,
-W1433,,,2003001891,2003-07-21,,crow kidney,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1434,,,2003001894,2003-07-23,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1435,,,2003001900,2003-07-22,,crow kidney,,USA,MN,Washington,,,,,,,,,,,,,,,,,
-W1436,,,2003001915,2003-07-28,,crow kidney,,USA,MN,Rice,,,,,,,,,,,,,,,,,
-W1437,,,2003001922,2003-07-28,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,,,,,,
-W1438,,,2003001946,2003-07-23,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,,,,,,
-W1439,,,2003002020,2003-07-25,,Blue Jay kidney,,USA,MN,Carver,,,,,,,,,,,,,,,,,
-W1440,,,2003002023,2003-07-29,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,,,,,,
-W1441,,,2003002038,2003-07-31,,crow kidney,,USA,MN,Renville,,,,,,,,,,,,,,,,,
-W1442,,,2003002041,2003-07-30,,crow kidney,,USA,MN,Lyon,,,,,,,,,,,,,,,,,
-W1443,,,2004001015,2004-06-25,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1444,,,2004001019,2004-06-25,,Blue Jay beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1445,,,2004001050,2004-06-28,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,,,,,,
-W1446,,,2004001053,2004-07-01,,Blue Jay brain,,USA,MN,Waseca,,,,,,,,,,,,,,,,,
-W1447,,,2004001054,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,,,,,,
-W1448,,,2004001055,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,,,,,,
-W1449,,,2004001056,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,,,,,,
-W1450,,,2004001057,2004-06-28,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1451,,,2004001058,2004-06-28,,crow brain,,USA,MN,Fillmore,,,,,,,,,,,,,,,,,
-W1452,,,2004001078,2004-06-30,,crow brain,,USA,MN,Steele,,,,,,,,,,,,,,,,,
-W1453,,,2004001116,2004-07-07,,Blue Jay brain,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1454,,,2004001118,2004-07-06,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1455,,,2004001127,2004-07-03,,Great Horned Owl brain,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1456,,,2004001129,2004-07-08,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,,,,,,
-W1457,,,2004001130,2004-07-08,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,,,,,,
-W1458,,,2004001136,2004-07-05,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1459,,,2004001202,2004-07-03,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1460,,,2004001227,2004-07-10,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1461,,,2004001233,2004-07-14,,crow brain,,USA,MN,Renville,,,,,,,,,,,,,,,,,
-W1462,,,2004001239,2004-07-13,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1463,,,2004001163,2004-07-08,,Robin brain,,USA,MN,Scott,,,,,,,,,,,,,,,,,
-W1464,,,2004001161,2004-07-09,,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1465,,,2004001256,2004-07-16,,crow brain,,USA,MN,Mower,,,,,,,,,,,,,,,,,
-W1466,,,2004001267,2004-07-15,,Blue Jay beak swab,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1467,,,2004001244,2004-07-13,,crow brain,,USA,MN,Sherburne,,,,,,,,,,,,,,,,,
-W1468,,,2004001327,2004-07-16,,crow brain,,USA,MN,Crow Wing,,,,,,,,,,,,,,,,,
-W1469,,,2004001328,2004-07-20,,House Sparrow brain,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1470,,,2004001331,2004-07-14,,crow brain,,USA,MN,Beltrami,,,,,,,,,,,,,,,,,
-W1471,,,2004001332,2004-07-19,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,,,,,,
-W1472,,,2004001249,2004-07-14,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1473,,,2005001406,2005-07-19,,crow brain,,USA,MN,Isanti,,,,,,,,,,,,,,,,,
-W1474,,,2005001470,2005-07-21,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,,,,,,
-W1475,,,2005001471,2005-07-21,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,,,,,,
-W1476,,,2005001418,2005-07-12,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,,,,,,
-W1477,,,2005001419,2005-07-11,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1478,,,2005001602,2005-07-27,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,,,,,,
-W1479,,,2005001607,2005-07-24,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1480,,,2005001625,2005-07-29,,Snowy Owl brain,,USA,MN,St. Louis,,,,,,,,,,,,,,,,,
-W1481,,,2005001626,2005-07-28,,Coopers Hawk brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W1482,,,2005001716,2005-08-01,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1483,,,2005001717,2005-08-02,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1484,,,2005001718,2005-08-02,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,,,,,,
-W1485,,,2005001719,2005-08-01,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,,,,,,
-W1486,,,2005001721,2005-08-01,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1488,,,2005001746,2005-08-02,,crow beak swab,,USA,MN,Scott,,,,,,,,,,,,,,,,,
-W1489,,,2005001747,2005-08-03,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,,,,,,
-W1490,,,2005001737,2005-07-26,,crow brain,,USA,MN,Mahnomen,,,,,,,,,,,,,,,,,
-W1491,,,2005001738,2005-08-03,,crow brain,,USA,MN,Mower,,,,,,,,,,,,,,,,,
-W1492,,,2005001751,2005-08-09,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,,,,,,
-W1493,,,2005001927,2005-08-17,,Blue Jay brain,,USA,MN,Cass,,,,,,,,,,,,,,,,,
-W1494,,,2005002025,2005-08-23,,Bald Eagle brain,,USA,MN,Meeker,,,,,,,,,,,,,,,,,
-W1495,,,2005002032,2005-08-22,,crow beak swab,,USA,MN,Dakota,,,,,,,,,,,,,,,,,
-W1496,,,2005002035,2005-08-22,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,,,,,,
-W1497,,,2005002039,2005-08-11,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,,,,,,
-W1498,,,2005002040,2005-08-11,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,,,,,,
-W1499,,,2005002103,2005-08-24,,crow brain,,USA,MN,Lyon,,,,,,,,,,,,,,,,,
-W1500,,,2005002118,2005-09-02,,crow brain,,USA,MN,Pennington,,,,,,,,,,,,,,,,,
-W1501,,,2005002130,2005-09-05,,Red-Tailed Hawk,,USA,MN,Stearns,,,,,,,,,,,,,,,,,
-W1502,,,2005002143,2005-09-06,,Great Grey Owl brain,,USA,MN,Ramsey,,,,,,,,,,,,,,,,,
-W0831,,yes,18-08904,2018-07-13,,Pooled mosquitoes,5269 Secor Rd,USA,OH,Lucas,Toledo,,41.711,-83.625,,,,,,,,,,,,,
-W0832,,yes,18-08908,2018-07-17,,Pooled mosquitoes,11 N McCord Rd,USA,OH,Lucas,Holland,,41.639,-83.704,,,,,,,,,,,,,
-W0835,,yes,18-08913,2018-07-17,,Pooled mosquitoes,2225 Nebraska Ave,USA,OH,Lucas,Toledo,,41.64,-83.598,,,,,,,,,,,,,
-W0836,,yes,18-08924,2018-07-17,,Pooled mosquitoes,1240 Columbus Ave,USA,OH,Lucas,Holland,,41.618,-83.71,,,,,,,,,,,,,
-W0839,,yes,18-08944,2018-07-17,,Pooled mosquitoes,5639 Benore Rd,USA,OH,Lucas,Toledo,,41.715,-83.514,,,,,,,,,,,,,
-W0840,,yes,18-08951,2018-07-18,,Pooled mosquitoes,1144 Hugo Ave,USA,OH,Lucas,Maumee,,41.582,-83.629,,,,,,,,,,,,,
-W0842,,yes,18-09459,2018-07-17,,Pooled mosquitoes,1929 Kenny Rd,USA,OH,Franklin,Columbus,,39.999,-83.035,,,,,,,,,,,,,
-W0845,,yes,18-09468,2018-07-17,,Pooled mosquitoes,499 Medick Way,USA,OH,Franklin,Worthington,,40.092,-83.03,,,,,,,,,,,,,
-W0848,,yes,18-09482,2018-07-18,,Pooled mosquitoes,575 Lazelle Rd,USA,OH,Franklin,Columbus,,40.132,-82.987,,,,,,,,,,,,,
-W0856,,yes,18-09545,2018-07-18,,Pooled mosquitoes,331 E Wilson Bridge Rd,USA,OH,Franklin,Worthington,,40.107,-83.007,,,,,,,,,,,,,
-W0858,,yes,18-09562,2018-07-17,,Pooled mosquitoes,2766 Walnut Ridge Rd,USA,OH,Summit,Bath,,41.162,-81.612,,,,,,,,,,,,,
-W0860,,yes,18-09572,2018-07-17,,Pooled mosquitoes,Garfield Ave,USA,OH,Summit,Cuyahoga Falls,,41.146,-81.478,,,,,,,,,,,,,
-W0861,,yes,18-09574,2018-07-17,,Pooled mosquitoes,529 Forest Oaks Dr,USA,OH,Summit,Fairlawn,,41.121,-81.646,,,,,,,,,,,,,
-W0865,,yes,18-09589,2018-07-17,,Pooled mosquitoes,4899 Massillon Rd,USA,OH,Summit,Green,,40.927,-81.461,,,,,,,,,,,,,
-W0870,,yes,18-09620,2018-07-17,,Pooled mosquitoes,581 Maple Ct,USA,OH,Summit,Macedonia,,41.306,-81.511,,,,,,,,,,,,,
-W0875,,yes,18-10229,2018-07-20,,Pooled mosquitoes,3845 William P. Dooley Bypass,USA,OH,Hamilton,Cincinnati,,39.155,-84.54,,,,,,,,,,,,,
-W0881,,yes,18-10249,2018-07-26,,Pooled mosquitoes,48900 N Market St,USA,OH,Belmont,Clairsville,,40.091,-80.906,,,,,,,,,,,,,
-W0885,,yes,18-10750,2018-07-17,,Pooled mosquitoes,5290 Trailsend Ct,USA,OH,Lorain,Sheffiled Village,,41.444,-82.078,,,,,,,,,,,,,
-W0891,,yes,18-10779,2018-07-25,,Pooled mosquitoes,37109 Royalton Rd,USA,OH,Lorain,Grafton,,41.313,-82.038,,,,,,,,,,,,,
-W0897,,yes,18-10802,2018-07-24,,Pooled mosquitoes,4669 Frederick Pike,USA,OH,Montgomery,Dayton,,39.485,-84.122,,,,,,,,,,,,,
-W0899,,yes,18-10811,2018-07-24,,Pooled mosquitoes,3915 Pilgrim Rd,USA,OH,Montgomery,Dayton,,39.48,-84.12,,,,,,,,,,,,,
-W0901,,yes,18-10815,2018-07-25,,Pooled mosquitoes,3509 Stonequarry Rd,USA,OH,Montgomery,Dayton,,39.524,-84.132,,,,,,,,,,,,,
-W0902,,yes,18-10827,2018-07-27,,Pooled mosquitoes,6064 Millshire Dr,USA,OH,Montgomery,Centerville,,39.392,-84.081,,,,,,,,,,,,,
-W1503,,yes,18-10804,2018-07-24,,Pooled mosquitoes,1301 E Siebenthaler Ave,USA,OH,Montgomery,Dayton,,39.481,-84.121,,,,,,,,,,,,,
-W0909,,yes,18-11512,2018-07-31,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,,,,,,
-W1505,,yes,18-11511,2018-07-31,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,,,,,,
-W1507,,yes,18-11516,2018-07-31,,Pooled mosquitoes,04226 Co Rd 12,USA,OH,Williams,Bryan,,41.474,-84.591,,,,,,,,,,,,,
-W1517,plate 1,Yes,46424,2018-07-05,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,,,,,,
-W1522,plate 1,Yes,46519,2018-07-12,Culex restuans,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,,,,,,
-W1525,plate 1,Yes,46545,2018-07-12,Culex restuans,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,,,,,,
-W1529,plate 1,Yes,46574,2018-07-12,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.77,-87.704,,,,,,,,,,,,,
-W1530,plate 1,Yes,46577,2018-07-12,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,,,,,,
-W1531,plate 1,Yes,46593,2018-07-12,Culex restuans,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.68,,,,,,,,,,,,,
-W1537,plate 1,Yes,46632,2018-07-19,Culex restuans,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,,,,,,
-W1538,plate 1,Yes,46634,2018-07-19,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,,,,,,
-W1540,plate 1,Yes,46643,2018-07-19,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,,,,,,
-W1564,plate 1,Yes,46775,2018-07-26,Culex restuans,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,,,,,,
-W1568,plate 2,Yes,46804,2018-07-26,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.89,-87.691,,,,,,,,,,,,,
-W1580,plate 2,Yes,46858,2018-07-26,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,,,,,,
-W1586,plate 2,Yes,46870,2018-08-02,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.978,-87.877,,,,,,,,,,,,,
-W1614,plate 2,Yes,47002,2018-08-09,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,,,,,,
-W1630,plate 2,Yes,47060,2018-08-09,Culex restuans,Pooled Mosquitoes,3741 S Pulaski Rd,USA,IL,Cook,Chicago,,41.825,-87.723,,,,,,,,,,,,,
-W1633,plate 3,Yes,47066,2018-08-09,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.77,-87.704,,,,,,,,,,,,,
-W1638,plate 3,Yes,47098,2018-08-09,Culex sp.,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,,,,,,
-W1647,plate 3,Yes,47138,2018-08-16,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,,,,,,
-W1648,plate 3,Yes,47141,2018-08-16,Culex sp.,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,,,,,,
-W1656,plate 3,Yes,47170,2018-08-16,Culex sp.,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,,,,,,
-W1668,plate 3,Yes,47195,2018-08-16,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.89,-87.691,,,,,,,,,,,,,
-W1670,plate 3,Yes,47197,2018-08-16,Culex restuans,Pooled Mosquitoes,2150 N Cannon Dr,USA,IL,Cook,Chicago,,41.92,-87.634,,,,,,,,,,,,,
-W1685,plate 3,Yes,47263,2018-08-23,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,,,,,,
-W1688,plate 3,Yes,47266,2018-08-23,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,,,,,,
-W1702,plate 4,Yes,47388,2018-08-30,Culex sp.,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,,,,,,
-W1705,plate 4,Yes,47437,2018-08-30,Culex sp.,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.68,,,,,,,,,,,,,
-W1750,Plate 1,Yes,CSU-4336,2013-07-22,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.412,-104.989,,,,,,,,,,,,,
-W1751,Plate 1,Yes,CSU-4352,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,,,,,,
-W1752,Plate 1,Yes,CSU-4365,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.401,-105.137,,,,,,,,,,,,,
-W1753,Plate 1,Yes,CSU-4384,2013-07-22,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1754,Plate 1,Yes,CSU-4396,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.481,-105.039,,,,,,,,,,,,,
-W1755,Plate 1,Yes,CSU-4413,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.030,,,,,,,,,,,,,
-W1756,Plate 1,Yes,CSU-4455,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.388,-105.108,,,,,,,,,,,,,
-W1757,Plate 1,Yes,CSU-4474,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.588,-105.105,,,,,,,,,,,,,
-W1758,Plate 1,Yes,CSU-4485,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.434,-105.104,,,,,,,,,,,,,
-W1759,Plate 1,Yes,CSU-4501,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.500,-105.063,,,,,,,,,,,,,
-W1760,Plate 1,Yes,CSU-4589,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,,,,,,
-W1761,Plate 1,Yes,CSU-4601,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,,,,,,
-W1762,Plate 1,Yes,CSU-4607,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.530,-105.065,,,,,,,,,,,,,
-W1763,Plate 1,Yes,CSU-4639,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,,,,,,
-W1764,Plate 1,Yes,CSU-4664,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,,,,,,
-W1765,Plate 1,Yes,CSU-4700,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.516,-105.085,,,,,,,,,,,,,
-W1766,Plate 2,Yes,CSU-4768,2013-08-05,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.089,,,,,,,,,,,,,
-W1767,Plate 2,Yes,CSU-4847,2013-08-05,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.510,-105.069,,,,,,,,,,,,,
-W1768,Plate 2,Yes,CSU-4858,2013-08-05,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.484,-105.105,,,,,,,,,,,,,
-W1769,Plate 2,Yes,CSU-4899,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1770,Plate 2,Yes,CSU-4916,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.400,-105.042,,,,,,,,,,,,,
-W1771,Plate 2,Yes,CSU-4919,2013-08-12,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.400,-105.042,,,,,,,,,,,,,
-W1772,Plate 2,Yes,CSU-4924,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.020,,,,,,,,,,,,,
-W1773,Plate 2,Yes,CSU-4950,2013-08-12,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,,,,,,
-W1774,Plate 2,Yes,CSU-4964,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.543,-105.046,,,,,,,,,,,,,
-W1775,Plate 2,Yes,CSU-5010,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.367,-105.074,,,,,,,,,,,,,
-W1776,Plate 2,Yes,CSU-5032,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.532,-105.088,,,,,,,,,,,,,
-W1777,Plate 2,Yes,CSU-5049,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.592,-105.066,,,,,,,,,,,,,
-W1778,Plate 2,Yes,CSU-5073,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.570,-105.071,,,,,,,,,,,,,
-W1779,Plate 2,Yes,CSU-5078,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,,,,,,
-W1780,Plate 2,Yes,CSU-5142,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.573,-105.139,,,,,,,,,,,,,
-W1781,Plate 2,Yes,CSU-5177,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,,,,,,
-W1782,Plate 2,Yes,CSU-5200,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,,,,,,
-W1783,Plate 2,Yes,CSU-5201,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,,,,,,
-W1784,Plate 2,Yes,CSU-5210,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.564,-105.007,,,,,,,,,,,,,
-W1785,Plate 2,Yes,CSU-5243,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.071,,,,,,,,,,,,,
-W1786,Plate 2,Yes,CSU-5255,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.436,-105.084,,,,,,,,,,,,,
-W1787,Plate 2,Yes,CSU-5268,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1788,Plate 2,Yes,CSU-5269,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.535,-105.037,,,,,,,,,,,,,
-W1789,Plate 3,Yes,CSU-5313,2013-09-02,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.599,-105.006,,,,,,,,,,,,,
-W1790,Plate 3,Yes,CSU-5385,2013-09-02,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.517,-105.098,,,,,,,,,,,,,
-W1791,Plate 3,Yes,CSU-6034,2014-07-28,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,,,,,,
-W1792,Plate 3,Yes,CSU-6189,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,,,,,,
-W1793,Plate 3,Yes,CSU-6272,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.481,-105.039,,,,,,,,,,,,,
-W1794,Plate 3,Yes,CSU-6327,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,,,,,,
-W1795,Plate 3,Yes,CSU-6354,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1796,Plate 3,Yes,CSU-6372,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.416,-105.045,,,,,,,,,,,,,
-W1797,Plate 3,Yes,CSU-6485,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1798,Plate 3,Yes,CSU-6599,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.421,-105.058,,,,,,,,,,,,,
-W1799,Plate 3,Yes,CSU-6607,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.510,-105.069,,,,,,,,,,,,,
-W1800,Plate 3,Yes,CSU-6691,2014-08-18,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.592,-105.066,,,,,,,,,,,,,
-W1801,Plate 3,Yes,CSU-6712,2014-08-18,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,,,,,,
-W1802,Plate 3,Yes,CSU-6784,2014-08-18,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.379,-105.120,,,,,,,,,,,,,
-W1803,Plate 3,Yes,CSU-6841,2014-08-25,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,,,,,,
-W1804,Plate 4,Yes,CSU-7350,2015-06-29,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1805,Plate 4,Yes,CSU-8003,2015-07-27,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,,,,,,
-W1806,Plate 4,Yes,CSU-8165,2015-08-03,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1807,Plate 4,Yes,CSU-8231,2015-08-03,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,,,,,,
-W1808,Plate 4,Yes,CSU-8304,2015-08-10,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,,,,,,
-W1809,Plate 4,Yes,CSU-8427,2015-08-17,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1810,Plate 4,Yes,CSU-8567,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1811,Plate 4,Yes,CSU-8569,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1812,Plate 4,Yes,CSU-8613,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,,,,,,
-W1813,Plate 4,Yes,CSU-8618,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.536,-105.101,,,,,,,,,,,,,
-W1814,Plate 4,Yes,CSU-8639,2015-08-31,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,,,,,,
-W1815,Plate 4,Yes,CSU-8649,2015-08-31,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,,,,,,
-W1816,Plate 5,Yes,CSU-8802,2015-09-07,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,,,,,,
-W1817,Plate 5,Yes,CSU-8834,2015-09-14,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,,,,,,
-W1818,Plate 5,Yes,CSU-8858,2015-09-14,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,,,,,,
-W1819,Plate 5,Yes,CSU-9037,2016-06-27,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,,,,,,
-W1820,Plate 5,Yes,CSU-9322,2016-07-18,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.601,-105.080,,,,,,,,,,,,,
-W1821,Plate 5,Yes,CSU-9535,2016-07-25,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,,,,,,
-W1822,Plate 5,Yes,CSU-9699,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,,,,,,
-W1823,Plate 5,Yes,CSU-9708,2016-08-08,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.579,-105.056,,,,,,,,,,,,,
-W1824,Plate 5,Yes,CSU-9738,2016-08-08,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,,,,,,
-W1825,Plate 5,Yes,CSU-9761,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1826,Plate 5,Yes,CSU-9776,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,,,,,,
-W1827,Plate 5,Yes,CSU-9820,2016-08-15,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1828,Plate 5,Yes,CSU-9838,2016-08-15,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,,,,,,
-W1829,Plate 6,Yes,CSU-9955,2016-08-22,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.072,,,,,,,,,,,,,
-W1830,Plate 6,Yes,CSU-9984,2016-08-22,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1831,Plate 6,Yes,CSU-10224,2016-09-12,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.582,-105.111,,,,,,,,,,,,,
-W1832,Plate 6,Yes,CSU-10766,2017-07-17,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,,,,,,
-W1833,Plate 6,Yes,CSU-10804,2017-07-17,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.344,-105.103,,,,,,,,,,,,,
-W1834,Plate 6,Yes,CSU-11073,2017-07-31,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1835,Plate 6,Yes,CSU-11175,2017-08-07,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1836,Plate 6,Yes,CSU-11361,2017-08-21,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.321,-105.095,,,,,,,,,,,,,
-W1837,Plate 6,Yes,CSU-12001,2018-07-09,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.536,-105.101,,,,,,,,,,,,,
-W1838,Plate 6,Yes,CSU-12092,2018-07-16,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.532,-105.088,,,,,,,,,,,,,
-W1839,Plate 6,Yes,CSU-12107,2018-07-23,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,,,,,,
-W1840,Plate 6,Yes,CSU-12168,2018-07-23,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.344,-105.103,,,,,,,,,,,,,
-W1841,Plate 6,Yes,CSU-12418,2018-08-06,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1842,Plate 7,Yes,CSU-12445,2018-08-06,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,,,,,,
-W1843,Plate 7,Yes,CSU-12497,2018-08-13,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.579,-105.056,,,,,,,,,,,,,
-W1844,Plate 7,Yes,CSU-12581,2018-08-20,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.571,-105.055,,,,,,,,,,,,,
-W1845,Plate 7,Yes,CSU-12737,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1846,Plate 7,Yes,CSU-12739,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1847,Plate 7,Yes,CSU-12782,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,,,,,,
-W1848,Plate 7,Yes,CSU-12825,2018-09-03,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.582,-105.111,,,,,,,,,,,,,
-W1849,Plate 7,Yes,CSU-12868,2018-09-10,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,,,,,,
-W1850,Plate 7,Yes,CSU-12900,2018-09-10,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,,,,,,
-W1851,Plate 7,Yes,CSU-13810,2019-08-19,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.530,-105.050,,,,,,,,,,,,,
-W1852,Plate 7,Yes,CSU-13931,2019-08-26,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,,,,,,
-W1853,Plate 7,Yes,CSU-13954,2019-09-02,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,,,,,,
-W1854,Plate 7,Yes,CSU-14002,2019-09-02,Cx.. Tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,,,,,,
-W1855,Plate 8,Yes,CSU-13709,2019-09-09,Cx.. Tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,,,,,,
+scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
+W824,,yes,801T-P1,2018-08-02,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,28,,,,,,spokane,mosquito
+W825,,yes,808T-P1,2018-08-08,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,27,,,,,,spokane,mosquito
+W826,,yes,814G-P7,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,35,,,,,,pierce,mosquito
+W827,,yes,814G-P8,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W828,,yes,814G-P9,2018-08-14,Culex pipiens,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W829,,yes,814G-P10,2018-08-14,Culex tarsalis,Pooled mosquitoes,,USA,WA,Pierce,,,47.25,-122.411,33,,,,,,pierce,mosquito
+W830,,yes,815T-P1,2018-08-25,Culex pipiens,Pooled mosquitoes,,USA,WA,Spokane,,,47.627,-117.384,15,,,,,,spokane,mosquito
+W0950,,,1309050020,2013-09-04,Cx. salinarius,,,USA,NH,Rockingham,New Castle,,,,,,,,,,rockingham,mosquito
+W0951,,,1310030042,2013-10-01,Cs. melanura,,,USA,NH,Rockingham,Brentwood,,,,,,,,,,rockingham,mosquito
+W0952,,,1509110048,2015-09-09,Cx. restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0953,,,1509160097,2015-09-10,Cs. morsitans,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito
+W0954,,,1708040034,2017-07-31,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0955,,,1708040067,2017-08-01,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0956,,,1708110012,2017-08-04,Cx. restuans,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0957,,,1708160178,2017-08-10,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0958,,,1709130182,2017-09-12,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0959,,,1709210004,2017-09-15,Cs. melanura,,,USA,NH,Rockingham,Exeter,,,,,,,,,,rockingham,mosquito
+W0960,,,1709210066,2017-09-19,Cs. melanura,,,USA,NH,Strafford,Madbury,,,,,,,,,,strafford,mosquito
+W0961,,,1710110064,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,East Kingston,,,,,,,,,,rockingham,mosquito
+W0962,,,1710110081,2017-10-05,Cs. melanura,,,USA,NH,Rockingham,Danville,,,,,,,,,,rockingham,mosquito
+W0963,,,1807200027,2018-07-16,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0964,,,1808100059,2018-08-07,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0965,,,1808140082,2018-08-09,Cq. perturbans,,,USA,NH,Rockingham,Salem,,,,,,,,,,rockingham,mosquito
+W0966,,,1808200012,2018-08-13,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0967,,,1808200031,2018-08-13,Ae. cinereus,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0968,,,1808200033,2018-08-13,Cq. perturbans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0969,,,1808200057,2018-08-14,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0970,,,1808230144,2018-08-20,Cx. pipiens/restuans,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0971,,,1808230268,2018-08-16,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0972,,,1808230374,2018-08-16,Cx. salinarius,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0973,,,1808240039,2018-08-22,Oc. canadensis,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0974,,,1808240051,2018-08-22,Ps. ferox,,,USA,NH,Hillsborough,Manchester,,,,,,,,,,hillsborough,mosquito
+W0975,,,1808300206,2018-08-28,Cx. pipiens,,,USA,NH,Rockingham,North Hampton,,,,,,,,,,rockingham,mosquito
+W0976,,,1809050088,2018-08-28,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0977,,,1809060023,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0978,,,1809060033,2018-08-30,Cx. pipiens,,,USA,NH,Hillsborough,Nashua,,,,,,,,,,hillsborough,mosquito
+W0979,,,1809130129,2018-09-04,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito
+W0980,,,1809130222,2018-09-11,Cx. salinarius,,,USA,NH,Rockingham,Londonderry,,,,,,,,,,rockingham,mosquito
+W0981,,,1809130232,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito
+W0982,,,1809130239,2018-09-11,Ae. cinereus,,,USA,NH,Rockingham,Candia,,,,,,,,,,rockingham,mosquito
+W0983,,,1809130275,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Raymond,,,,,,,,,,rockingham,mosquito
+W0984,,,1809200002,2018-09-11,Cs. melanura,,,USA,NH,Rockingham,Sandown,,,,,,,,,,rockingham,mosquito
+W0985,,,1809200048,2018-09-13,Cs. melanura,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito
+W0986,,,1809200183,2018-09-18,Cx. salinarius,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0987,,,1809200184,2018-09-18,Cs. melanura,,,USA,NH,Rockingham,Rye,,,,,,,,,,rockingham,mosquito
+W0988,,,1809200323,2018-09-18,Cx. restuans,,,USA,NH,Rockingham,Kensington,,,,,,,,,,rockingham,mosquito
+W0989,,,1810030033,2018-09-27,Cx. pipiens,,,USA,NH,Cheshire,Keene,,,,,,,,,,cheshire,mosquito
+W0990,,,1810100037,2018-10-04,Cs. morsitans,,,USA,NH,Rockingham,Newton,,,,,,,,,,rockingham,mosquito
+W0918,,yes,2013-7741.1,1905-07-05,Flamingo,,,USA,Virgin Islands,,,,,,,,,,,,,bird
+W0920,,yes,2015-10442.1,1905-07-07,Magpie,,,USA,WA,Grant,,,,,,,,,,,,bird
+W0921,,yes,2015-11794.1,1905-07-07,Magpie,,,USA,WA,Kittitas,,,,,,,,,,,,bird
+W0922,,yes,2015-11937.1,1905-07-07,Red-tailed hawk,,,USA,IA,,,,,,,,,,,,,bird
+W0924,,yes,2015-13052.2,1905-07-07,American Paint horse mix,,,USA,WA,Grant,Ephrata,,,,,,,,,,,bird
+W0925,,yes,2016-10167.2,1905-07-08,Quarterhorse,,,USA,WA,Spokane,Cheny,,,,,,,,,,,bird
+W0926,,yes,2016-12216.1,1905-07-08,Crow,,,USA,WA,Spokane,Spokane,,,,,,,,,,,bird
+W0927,,yes,2017-11015.1,1905-07-09,Short-eared owl,,,USA,ID,,Eagle,,,,,,,,,,,bird
+W0929,,yes,2017-11580.1,1905-07-09,Bald Eagle,,,USA,ID,,Eagle,,,,,,,,,,,bird
+W0930,,yes,2017-A1952.B2,1905-07-09,Quail,,,USA,WA,Walla,Walla Walla,,,,,,,,,,,bird
+W0931,,yes,2017-A2425 B8-3,1905-07-09,Pheasant,,,USA,WA,Lincoln,Reardan,,,,,,,,,,,bird
+W0933,,,2010-00942,1905-07-02,,Mosquito Pool,,USA,OR,Benton,,,,,21.93,,,,,,,mosquito
+W0936,,,2014-00295,1905-07-06,,Mosquito Pool,,USA,OR,Malheur,,,,,32.06,,,,,,,mosquito
+W0937,,,2014-00660,1905-07-06,,Mosquito Pool,,USA,OR,Malheur,,,,,28.63,,,,,,,mosquito
+W0938,,,2015-00846,1905-07-07,,Mosquito Pool,,USA,WA,Franklin,,,,,28.16,,,,,,,mosquito
+W0939,,,2015-01477,1905-07-07,,Mosquito Pool,,USA,WA,Grant,,,,,31.27,,,,,,,mosquito
+W0940,,,2016-00992,1905-07-08,,Mosquito Pool,,USA,WA,Grant,,,,,22.08,,,,,,,mosquito
+W0941,,,2016-01640,1905-07-08,,Mosquito Pool,,USA,WA,Grant,,,,,30.85,,,,,,,mosquito
+W0942,,,2016-02181,1905-07-08,,Mosquito Pool,,USA,OR,Jackson,,,,,27.57,,,,,,,mosquito
+W0943,,,2016-02497,1905-07-08,Crow,Brain,,USA,OR,Josephine,,,,,21.2,,,,,,,bird
+W0944,,,2017-00988,1905-07-09,,Mosquito Pool,,USA,OR,Umatilla,,,,,28.65,,,,,,,mosquito
+W0945,,,2017-01348,1905-07-09,,Mosquito Pool,,USA,WA,Grant,,,,,23.33,,,,,,,mosquito
+W0946,,,2017-01736,1905-07-09,Swainson's Hawk,Brain,,USA,OR,Klamath,,,,,23.79,,,,,,,bird
+W0947,,,2018-01636,1905-07-10,,Mosquito Superpool,,USA,OR,Morrow,,,,,31.15,,,,,,,mosquito
+W0948,,,2018-02024,1905-07-10,,Mosquito Pool,,USA,OR,Umatilla,,,,,23.37,,,,,,,mosquito
+W0949,,,2018-03125,1905-07-10,,Mosquito Pool,,USA,OR,Morrow,,,,,28.06,,,,,,,mosquito
+W1298,,,WNLA17_103,2017-07-20,Cx. quinq.,,,USA,LA,Calcasieu,,,,,22.5644,,,,,,,mosquito
+W1299,,,WNLA17_104,2017-07-31,Cx. quinq.,,,USA,LA,St. Tammany,,,,,27.0483,,,,,,,mosquito
+W1300,,,WNLA17_105,2017-08-11,Cx. quinq.,,,USA,LA,WBR,,,,,24.0417,,,,,,,mosquito
+W1301,,,WNLA17_106,2017-07-06,Cx. quinq.,,,USA,LA,WBR,,,,,20.9499,,,,,,,mosquito
+W1302,,,WNLA17_107,2017-07-08,Cx. quinq.,,,USA,LA,Ouachita,,,,,27.516,,,,,,,mosquito
+W1303,,,WNLA17_108,2017-08-01,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.6277,,,,,,,mosquito
+W1305,,,WNLA17_110,2017-06-28,Cx. quinq.,,,USA,LA,WBR,,,,,18.6219,,,,,,,mosquito
+W1306,,,WNLA17_111,2017-07-05,Cx. quinq.,,,USA,LA,EBR,,,,,20.5628,,,,,,,mosquito
+W1307,,,WNLA17_112,2017-07-19,Cx. quinq.,,,USA,LA,Ouachita,,,,,24.83,,,,,,,mosquito
+W1308,,,WNLA17_113,2017-07-17,Cx. quinq.,,,USA,LA,WBR,,,,,19.7393,,,,,,,mosquito
+W1309,,,WNLA17_114,2017-07-31,Cx. quinq.,,,USA,LA,EBR,,,,,22.3438,,,,,,,mosquito
+W1322,,,WNLA18_386,2018-08-15,Cx. quinq.,,,USA,LA,Ouachita,,,,,25.2546,,,,,,,mosquito
+W1323,,,WNLA18_388,2018-08-28,Cx. quinq.,,,USA,LA,EBR,,,,,26.1119,,,,,,,mosquito
+W1324,,,WNLA18_390,2018-08-30,Cx. quinq.,,,USA,LA,WBR,,,,,23.9964,,,,,,,mosquito
+W1326,,,WNLA18_397,2018-09-02,Cx. quinq.,,,USA,LA,EBR,,,,,21.3574,,,,,,,mosquito
+W1327,,,WNLA18_399,2018-08-09,Cx. quinq.,,,USA,LA,WBR,,,,,22.3101,,,,,,,mosquito
+W1328,,,WNLA18_401,2018-10-09,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.742,,,,,,,mosquito
+W1329,,,WNLA18_402,2018-08-14,Cx. quinq.,,,USA,LA,WBR,,,,,21.587,,,,,,,mosquito
+W1330,,,WNLA18_404,2018-09-02,Cx. quinq.,,,USA,LA,EBR,,,,,24.1371,,,,,,,mosquito
+W1331,,,WNLA18_408,2018-08-28,Cx. quinq.,,,USA,LA,Ascension,,,,,24.4785,,,,,,,mosquito
+W1332,,,WNLA18_410,2018-08-16,Cx. quinq.,,,USA,LA,WBR,,,,,23.2704,,,,,,,mosquito
+W1334,,,WNLA18_412,2018-08-21,Cx. quinq.,,,USA,LA,Ascension,,,,,23.1106,,,,,,,mosquito
+W1335,,,WNLA18_413,2018-08-28,Cx. quinq.,,,USA,LA,Tangipahioa,,,,,25.1479,,,,,,,mosquito
+W1336,,,WNLA18_418,2018-08-22,Cx. quinq.,,,USA,LA,EBR,,,,,23.5758,,,,,,,mosquito
+W1337,,,WNLA18_419,2018-08-02,Cx. quinq.,,,USA,LA,WBR,,,,,21.1073,,,,,,,mosquito
+W1338,,,WNLA18_425,2018-07-25,Cx. quinq.,,,USA,LA,Caddo,,,,,26.5086,,,,,,,mosquito
+W1339,,,WNLA18_427,2018-08-13,Cx. quinq.,,,USA,LA,St. Tammany,,,,,25.8339,,,,,,,mosquito
+W1342,,,WNLA18_434,2018-08-23,Cx. quinq.,,,USA,LA,WBR,,,,,24.5293,,,,,,,mosquito
+W1344,,,WNLA18_453,2018-08-22,Cx. quinq.,,,USA,LA,Ascension,,,,,23.9268,,,,,,,mosquito
+W1345,,,WNLA18_464,2018-08-22,Cx. quinq.,,,USA,LA,Ascension,,,,,31,,,,,,,mosquito
+W1346,,,WNLA18_465,2018-08-04,Cx. quinq.,,,USA,LA,Bossier,,,,,26.651,,,,,,,mosquito
+W1353,,,WNLA17_99,2017-06-26,Cx. quinq.,,,USA,LA,St. Tammany,,,,,21.6764,,,,,,,mosquito
+W1354,,,WNLA17_100,2017-08-05,Cx. quinq.,,,USA,LA,EBR,,,,,22.5521,,,,,,,mosquito
+W1356,,,WNLA17_102,2017-06-21,Cx. quinq.,,,USA,LA,Ouachita,,,,,23.1616,,,,,,,mosquito
+W1362,,,WNLA17_43,2017-08-01,Cx. quinq.,,,USA,LA,Allen,,,,,23.7802,,,,,,,mosquito
+W1364,,,WNLA17_49,2017-07-07,Cx. quinq.,,,USA,LA,Ouachita,,,,,21.8322,,,,,,,mosquito
+W1367,,,WNLA17_85,2017-08-01,Cx. quinq.,,,USA,LA,Allen,,,,,22.4299,,,,,,,mosquito
+W1368,,,WNLA17_95,2017-07-18,Cx. quinq.,,,USA,LA,Allen,,,,,28.0982,,,,,,,mosquito
+W1369,,,WNLA17_151,2017-07-28,Cx. quinq.,,,USA,LA,Caddo,,,,,24.0705,,,,,,,mosquito
+W1370,,,WNLA17_170,2017-06-20,Cx. quinq.,,,USA,LA,Allen,,,,,Undetermined,,,,,,,mosquito
+W1372,,,WNLA17_179,2017-08-08,Cx. quinq.,,,USA,LA,Bossier,,,,,26.5714,,,,,,,mosquito
+W1373,,,WNLA17_185,2017-07-04,Cx. quinq.,,,USA,LA,Allen,,,,,19.7313,,,,,,,mosquito
+W1374,,,WNLA17_189,2017-07-17,Cx. quinq.,,,USA,LA,Caddo,,,,,21.7873,,,,,,,mosquito
+W1375,,,WNLA17_224,2017-08-04,Cx. quinq.,,,USA,LA,Caddo,,,,,22.6103,,,,,,,mosquito
+W1378,,,WNLA17_263,2017-08-08,Cx. quinq.,,,USA,LA,Bossier,,,,,18.0507,,,,,,,mosquito
+W1379,,,WNLA17_275,2017-07-04,Cx. quinq.,,,USA,LA,Allen,,,,,20.6587,,,,,,,mosquito
+W1383,,,2002003190,2002-08-08,Crow,crow brain,,USA,MN,Redwood,,,,,,,,,,,,bird
+W1384,,,2002003199,2002-08-08,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1385,,,2002003202,2002-08-08,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1386,,,2002003703,2002-08-15,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,bird
+W1387,,,2002003379,2002-08-09,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1388,,,2002003381,2002-08-09,Crow,crow brain,,USA,MN,Lyon,,,,,,,,,,,,bird
+W1389,,,2002003385,2002-08-09,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,bird
+W1390,,,2002003386,2002-08-09,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1391,,,2002003187,2002-08-08,Crow,crow brain,,USA,MN,Filmore,,,,,,,,,,,,bird
+W1392,,,2002003188,2002-08-08,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1393,,,2002003082,2002-08-07,Crow,crow brain,,USA,MN,Brown,,,,,,,,,,,,bird
+W1394,,,2002003088,2002-08-07,Crow,crow brain,,USA,MN,Nicollet,,,,,,,,,,,,bird
+W1395,,,2002003095,2002-08-07,Crow,crow brain,,USA,MN,Big Stone,,,,,,,,,,,,bird
+W1396,,,2002003062,2002-08-07,Crow,crow brain,,USA,MN,Stevens,,,,,,,,,,,,bird
+W1397,,,2002003074,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1398,,,2002003077,2002-08-07,Blue Jay,Blue Jay brain,,USA,MN,Carver,,,,,,,,,,,,bird
+W1399,,,2002003045,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1400,,,2002003048,2002-08-07,Crow,crow brain,,USA,MN,Pope,,,,,,,,,,,,bird
+W1401,,,2002003049,2002-08-07,Crow,crow brain,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1403,,,2002003054,2002-08-07,Crow,crow brain,,USA,MN,Otter Tail,,,,,,,,,,,,bird
+W1404,,,2002003034,2002-08-07,Grobbeak,Grosbeak brain,,USA,MN,St. Louis,,,,,,,,,,,,bird
+W1407,,,2002003040,2002-08-07,Crow,crow brain,,USA,MN,Nobles,,,,,,,,,,,,bird
+W1408,,,2002003041,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1409,,,2002003042,2002-08-07,Crow,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1411,,,2002003024,2002-08-07,Crow,crow brain,,USA,MN,Benton,,,,,,,,,,,,bird
+W1412,,,2002003026,2002-08-07,Crow,crow brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1413,,,2003001687,2003-07-15,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1414,,,2003001723,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1415,,,2003001726,2003-07-17,,crow kidney,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1416,,,2003001729,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1417,,,2003001735,2003-07-17,,Blue Jay kidney,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1418,,,2003001742,2003-07-17,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1419,,,2003001755,2003-07-14,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,bird
+W1420,,,2003001758,2003-07-17,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1421,,,2003001752,2003-07-18,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,bird
+W1422,,,2003001761,2003-07-17,,crow kidney,,USA,MN,Chippewa,,,,,,,,,,,,bird
+W1423,,,2003001768,2003-07-18,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,bird
+W1424,,,2003001775,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1425,,,2003001778,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1426,,,2003001781,2003-07-18,,crow kidney,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1427,,,2003001824,2003-07-08,,Blue Jay kidney,,USA,MN,Cass,,,,,,,,,,,,bird
+W1428,,,2003001827,2003-07-10,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,bird
+W1429,,,2003001833,2003-07-23,,Goshawk kidney,,USA,MN,Wabasha,,,,,,,,,,,,bird
+W1430,,,2003001838,2003-07-18,,Blue Jay kidney,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1431,,,2003001863,2003-07-19,,Hawk kidney,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1432,,,2003001880,2003-07-22,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,bird
+W1433,,,2003001891,2003-07-21,,crow kidney,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1434,,,2003001894,2003-07-23,,crow kidney,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1435,,,2003001900,2003-07-22,,crow kidney,,USA,MN,Washington,,,,,,,,,,,,bird
+W1436,,,2003001915,2003-07-28,,crow kidney,,USA,MN,Rice,,,,,,,,,,,,bird
+W1437,,,2003001922,2003-07-28,,crow kidney,,USA,MN,Kandiyohi,,,,,,,,,,,,bird
+W1438,,,2003001946,2003-07-23,,crow kidney,,USA,MN,Mower,,,,,,,,,,,,bird
+W1439,,,2003002020,2003-07-25,,Blue Jay kidney,,USA,MN,Carver,,,,,,,,,,,,bird
+W1440,,,2003002023,2003-07-29,,crow kidney,,USA,MN,Crow Wing,,,,,,,,,,,,bird
+W1441,,,2003002038,2003-07-31,,crow kidney,,USA,MN,Renville,,,,,,,,,,,,bird
+W1442,,,2003002041,2003-07-30,,crow kidney,,USA,MN,Lyon,,,,,,,,,,,,bird
+W1443,,,2004001015,2004-06-25,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1444,,,2004001019,2004-06-25,,Blue Jay beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1445,,,2004001050,2004-06-28,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,bird
+W1446,,,2004001053,2004-07-01,,Blue Jay brain,,USA,MN,Waseca,,,,,,,,,,,,bird
+W1447,,,2004001054,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,bird
+W1448,,,2004001055,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,bird
+W1449,,,2004001056,2004-06-29,,crow brain,,USA,MN,Olmsted,,,,,,,,,,,,bird
+W1450,,,2004001057,2004-06-28,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1451,,,2004001058,2004-06-28,,crow brain,,USA,MN,Fillmore,,,,,,,,,,,,bird
+W1452,,,2004001078,2004-06-30,,crow brain,,USA,MN,Steele,,,,,,,,,,,,bird
+W1453,,,2004001116,2004-07-07,,Blue Jay brain,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1454,,,2004001118,2004-07-06,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1455,,,2004001127,2004-07-03,,Great Horned Owl brain,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1456,,,2004001129,2004-07-08,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,bird
+W1457,,,2004001130,2004-07-08,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,bird
+W1458,,,2004001136,2004-07-05,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1459,,,2004001202,2004-07-03,,American Kestral brain,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1460,,,2004001227,2004-07-10,,crow brain,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1461,,,2004001233,2004-07-14,,crow brain,,USA,MN,Renville,,,,,,,,,,,,bird
+W1462,,,2004001239,2004-07-13,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1463,,,2004001163,2004-07-08,,Robin brain,,USA,MN,Scott,,,,,,,,,,,,bird
+W1464,,,2004001161,2004-07-09,,crow brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1465,,,2004001256,2004-07-16,,crow brain,,USA,MN,Mower,,,,,,,,,,,,bird
+W1466,,,2004001267,2004-07-15,,Blue Jay beak swab,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1467,,,2004001244,2004-07-13,,crow brain,,USA,MN,Sherburne,,,,,,,,,,,,bird
+W1468,,,2004001327,2004-07-16,,crow brain,,USA,MN,Crow Wing,,,,,,,,,,,,bird
+W1469,,,2004001328,2004-07-20,,House Sparrow brain,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1470,,,2004001331,2004-07-14,,crow brain,,USA,MN,Beltrami,,,,,,,,,,,,bird
+W1471,,,2004001332,2004-07-19,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,bird
+W1472,,,2004001249,2004-07-14,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1473,,,2005001406,2005-07-19,,crow brain,,USA,MN,Isanti,,,,,,,,,,,,bird
+W1474,,,2005001470,2005-07-21,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,bird
+W1475,,,2005001471,2005-07-21,,goose brain,,USA,MN,Kandiyohi,,,,,,,,,,,,bird
+W1476,,,2005001418,2005-07-12,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,bird
+W1477,,,2005001419,2005-07-11,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1478,,,2005001602,2005-07-27,,crow brain,,USA,MN,Stearns,,,,,,,,,,,,bird
+W1479,,,2005001607,2005-07-24,,crow beak swab,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1480,,,2005001625,2005-07-29,,Snowy Owl brain,,USA,MN,St. Louis,,,,,,,,,,,,bird
+W1481,,,2005001626,2005-07-28,,Coopers Hawk brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W1482,,,2005001716,2005-08-01,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1483,,,2005001717,2005-08-02,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1484,,,2005001718,2005-08-02,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,bird
+W1485,,,2005001719,2005-08-01,,crow beak swab,,USA,MN,Washington,,,,,,,,,,,,bird
+W1486,,,2005001721,2005-08-01,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1488,,,2005001746,2005-08-02,,crow beak swab,,USA,MN,Scott,,,,,,,,,,,,bird
+W1489,,,2005001747,2005-08-03,,crow beak swab,,USA,MN,Anoka,,,,,,,,,,,,bird
+W1490,,,2005001737,2005-07-26,,crow brain,,USA,MN,Mahnomen,,,,,,,,,,,,bird
+W1491,,,2005001738,2005-08-03,,crow brain,,USA,MN,Mower,,,,,,,,,,,,bird
+W1492,,,2005001751,2005-08-09,,crow brain,,USA,MN,St. Louis,,,,,,,,,,,,bird
+W1493,,,2005001927,2005-08-17,,Blue Jay brain,,USA,MN,Cass,,,,,,,,,,,,bird
+W1494,,,2005002025,2005-08-23,,Bald Eagle brain,,USA,MN,Meeker,,,,,,,,,,,,bird
+W1495,,,2005002032,2005-08-22,,crow beak swab,,USA,MN,Dakota,,,,,,,,,,,,bird
+W1496,,,2005002035,2005-08-22,,crow beak swab,,USA,MN,Hennepin,,,,,,,,,,,,bird
+W1497,,,2005002039,2005-08-11,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,bird
+W1498,,,2005002040,2005-08-11,,Loon brain,,USA,MN,Sherburne,,,,,,,,,,,,bird
+W1499,,,2005002103,2005-08-24,,crow brain,,USA,MN,Lyon,,,,,,,,,,,,bird
+W1500,,,2005002118,2005-09-02,,crow brain,,USA,MN,Pennington,,,,,,,,,,,,bird
+W1501,,,2005002130,2005-09-05,,Red-Tailed Hawk,,USA,MN,Stearns,,,,,,,,,,,,bird
+W1502,,,2005002143,2005-09-06,,Great Grey Owl brain,,USA,MN,Ramsey,,,,,,,,,,,,bird
+W0831,,yes,18-08904,2018-07-13,,Pooled mosquitoes,5269 Secor Rd,USA,OH,Lucas,Toledo,,41.711,-83.625,,,,,,,,mosquito
+W0832,,yes,18-08908,2018-07-17,,Pooled mosquitoes,11 N McCord Rd,USA,OH,Lucas,Holland,,41.639,-83.704,,,,,,,,mosquito
+W0835,,yes,18-08913,2018-07-17,,Pooled mosquitoes,2225 Nebraska Ave,USA,OH,Lucas,Toledo,,41.64,-83.598,,,,,,,,mosquito
+W0836,,yes,18-08924,2018-07-17,,Pooled mosquitoes,1240 Columbus Ave,USA,OH,Lucas,Holland,,41.618,-83.71,,,,,,,,mosquito
+W0839,,yes,18-08944,2018-07-17,,Pooled mosquitoes,5639 Benore Rd,USA,OH,Lucas,Toledo,,41.715,-83.514,,,,,,,,mosquito
+W0840,,yes,18-08951,2018-07-18,,Pooled mosquitoes,1144 Hugo Ave,USA,OH,Lucas,Maumee,,41.582,-83.629,,,,,,,,mosquito
+W0842,,yes,18-09459,2018-07-17,,Pooled mosquitoes,1929 Kenny Rd,USA,OH,Franklin,Columbus,,39.999,-83.035,,,,,,,,mosquito
+W0845,,yes,18-09468,2018-07-17,,Pooled mosquitoes,499 Medick Way,USA,OH,Franklin,Worthington,,40.092,-83.03,,,,,,,,mosquito
+W0848,,yes,18-09482,2018-07-18,,Pooled mosquitoes,575 Lazelle Rd,USA,OH,Franklin,Columbus,,40.132,-82.987,,,,,,,,mosquito
+W0856,,yes,18-09545,2018-07-18,,Pooled mosquitoes,331 E Wilson Bridge Rd,USA,OH,Franklin,Worthington,,40.107,-83.007,,,,,,,,mosquito
+W0858,,yes,18-09562,2018-07-17,,Pooled mosquitoes,2766 Walnut Ridge Rd,USA,OH,Summit,Bath,,41.162,-81.612,,,,,,,,mosquito
+W0860,,yes,18-09572,2018-07-17,,Pooled mosquitoes,Garfield Ave,USA,OH,Summit,Cuyahoga Falls,,41.146,-81.478,,,,,,,,mosquito
+W0861,,yes,18-09574,2018-07-17,,Pooled mosquitoes,529 Forest Oaks Dr,USA,OH,Summit,Fairlawn,,41.121,-81.646,,,,,,,,mosquito
+W0865,,yes,18-09589,2018-07-17,,Pooled mosquitoes,4899 Massillon Rd,USA,OH,Summit,Green,,40.927,-81.461,,,,,,,,mosquito
+W0870,,yes,18-09620,2018-07-17,,Pooled mosquitoes,581 Maple Ct,USA,OH,Summit,Macedonia,,41.306,-81.511,,,,,,,,mosquito
+W0875,,yes,18-10229,2018-07-20,,Pooled mosquitoes,3845 William P. Dooley Bypass,USA,OH,Hamilton,Cincinnati,,39.155,-84.54,,,,,,,,mosquito
+W0881,,yes,18-10249,2018-07-26,,Pooled mosquitoes,48900 N Market St,USA,OH,Belmont,Clairsville,,40.091,-80.906,,,,,,,,mosquito
+W0885,,yes,18-10750,2018-07-17,,Pooled mosquitoes,5290 Trailsend Ct,USA,OH,Lorain,Sheffiled Village,,41.444,-82.078,,,,,,,,mosquito
+W0891,,yes,18-10779,2018-07-25,,Pooled mosquitoes,37109 Royalton Rd,USA,OH,Lorain,Grafton,,41.313,-82.038,,,,,,,,mosquito
+W0897,,yes,18-10802,2018-07-24,,Pooled mosquitoes,4669 Frederick Pike,USA,OH,Montgomery,Dayton,,39.485,-84.122,,,,,,,,mosquito
+W0899,,yes,18-10811,2018-07-24,,Pooled mosquitoes,3915 Pilgrim Rd,USA,OH,Montgomery,Dayton,,39.48,-84.12,,,,,,,,mosquito
+W0901,,yes,18-10815,2018-07-25,,Pooled mosquitoes,3509 Stonequarry Rd,USA,OH,Montgomery,Dayton,,39.524,-84.132,,,,,,,,mosquito
+W0902,,yes,18-10827,2018-07-27,,Pooled mosquitoes,6064 Millshire Dr,USA,OH,Montgomery,Centerville,,39.392,-84.081,,,,,,,,mosquito
+W1503,,yes,18-10804,2018-07-24,,Pooled mosquitoes,1301 E Siebenthaler Ave,USA,OH,Montgomery,Dayton,,39.481,-84.121,,,,,,,,mosquito
+W0909,,yes,18-11512,2018-07-31,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,mosquito
+W1505,,yes,18-11511,2018-07-31,,Pooled mosquitoes,(not provided),USA,OH,Williams,Edgerton,,41.451,-84.758,,,,,,,,mosquito
+W1507,,yes,18-11516,2018-07-31,,Pooled mosquitoes,04226 Co Rd 12,USA,OH,Williams,Bryan,,41.474,-84.591,,,,,,,,mosquito
+W1517,plate 1,Yes,46424,2018-07-05,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,mosquito
+W1522,plate 1,Yes,46519,2018-07-12,Culex restuans,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,mosquito
+W1525,plate 1,Yes,46545,2018-07-12,Culex restuans,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,mosquito
+W1529,plate 1,Yes,46574,2018-07-12,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.77,-87.704,,,,,,,,mosquito
+W1530,plate 1,Yes,46577,2018-07-12,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,mosquito
+W1531,plate 1,Yes,46593,2018-07-12,Culex restuans,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.68,,,,,,,,mosquito
+W1537,plate 1,Yes,46632,2018-07-19,Culex restuans,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,mosquito
+W1538,plate 1,Yes,46634,2018-07-19,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,mosquito
+W1540,plate 1,Yes,46643,2018-07-19,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,mosquito
+W1564,plate 1,Yes,46775,2018-07-26,Culex restuans,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,mosquito
+W1568,plate 2,Yes,46804,2018-07-26,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.89,-87.691,,,,,,,,mosquito
+W1580,plate 2,Yes,46858,2018-07-26,Culex restuans,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,mosquito
+W1586,plate 2,Yes,46870,2018-08-02,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.978,-87.877,,,,,,,,mosquito
+W1614,plate 2,Yes,47002,2018-08-09,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.958,-87.883,,,,,,,,mosquito
+W1630,plate 2,Yes,47060,2018-08-09,Culex restuans,Pooled Mosquitoes,3741 S Pulaski Rd,USA,IL,Cook,Chicago,,41.825,-87.723,,,,,,,,mosquito
+W1633,plate 3,Yes,47066,2018-08-09,Culex restuans,Pooled Mosquitoes,6743 S Kedzie Ave,USA,IL,Cook,Chicago,,41.77,-87.704,,,,,,,,mosquito
+W1638,plate 3,Yes,47098,2018-08-09,Culex sp.,Pooled Mosquitoes,5258 S Kolmar,USA,IL,Cook,Chicago,,41.796,-87.737,,,,,,,,mosquito
+W1647,plate 3,Yes,47138,2018-08-16,Culex restuans,Pooled Mosquitoes,4625 N Milwaukee Ave,USA,IL,Cook,Chicago,,41.964,-87.757,,,,,,,,mosquito
+W1648,plate 3,Yes,47141,2018-08-16,Culex sp.,Pooled Mosquitoes,9159 W Higgins Rd,USA,IL,Cook,Chicago,,41.984,-87.849,,,,,,,,mosquito
+W1656,plate 3,Yes,47170,2018-08-16,Culex sp.,Pooled Mosquitoes,5801 N Western Ave,USA,IL,Cook,Chicago,,41.985,-87.686,,,,,,,,mosquito
+W1668,plate 3,Yes,47195,2018-08-16,Culex restuans,Pooled Mosquitoes,2505 W Grand Ave,USA,IL,Cook,Chicago,,41.89,-87.691,,,,,,,,mosquito
+W1670,plate 3,Yes,47197,2018-08-16,Culex restuans,Pooled Mosquitoes,2150 N Cannon Dr,USA,IL,Cook,Chicago,,41.92,-87.634,,,,,,,,mosquito
+W1685,plate 3,Yes,47263,2018-08-23,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,42.004,-87.907,,,,,,,,mosquito
+W1688,plate 3,Yes,47266,2018-08-23,Culex sp.,Pooled Mosquitoes,O'Hare International Airport,USA,IL,Cook,Chicago,,41.998,-87.889,,,,,,,,mosquito
+W1702,plate 4,Yes,47388,2018-08-30,Culex sp.,Pooled Mosquitoes,8200 S Kostner Ave,USA,IL,Cook,Chicago,,41.742,-87.732,,,,,,,,mosquito
+W1705,plate 4,Yes,47437,2018-08-30,Culex sp.,Pooled Mosquitoes,2240 W 69th St,USA,IL,Cook,Chicago,,41.768,-87.68,,,,,,,,mosquito
+W1750,Plate 1,Yes,CSU-4336,2013-07-22,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.412,-104.989,,,,,,,,mosquito
+W1751,Plate 1,Yes,CSU-4352,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,mosquito
+W1752,Plate 1,Yes,CSU-4365,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.401,-105.137,,,,,,,,mosquito
+W1753,Plate 1,Yes,CSU-4384,2013-07-22,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1754,Plate 1,Yes,CSU-4396,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.481,-105.039,,,,,,,,mosquito
+W1755,Plate 1,Yes,CSU-4413,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.03,,,,,,,,mosquito
+W1756,Plate 1,Yes,CSU-4455,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.388,-105.108,,,,,,,,mosquito
+W1757,Plate 1,Yes,CSU-4474,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.588,-105.105,,,,,,,,mosquito
+W1758,Plate 1,Yes,CSU-4485,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.434,-105.104,,,,,,,,mosquito
+W1759,Plate 1,Yes,CSU-4501,2013-07-22,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.5,-105.063,,,,,,,,mosquito
+W1760,Plate 1,Yes,CSU-4589,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,mosquito
+W1761,Plate 1,Yes,CSU-4601,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,mosquito
+W1762,Plate 1,Yes,CSU-4607,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.53,-105.065,,,,,,,,mosquito
+W1763,Plate 1,Yes,CSU-4639,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,mosquito
+W1764,Plate 1,Yes,CSU-4664,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,mosquito
+W1765,Plate 1,Yes,CSU-4700,2013-07-29,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.516,-105.085,,,,,,,,mosquito
+W1766,Plate 2,Yes,CSU-4768,2013-08-05,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.089,,,,,,,,mosquito
+W1767,Plate 2,Yes,CSU-4847,2013-08-05,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.51,-105.069,,,,,,,,mosquito
+W1768,Plate 2,Yes,CSU-4858,2013-08-05,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.484,-105.105,,,,,,,,mosquito
+W1769,Plate 2,Yes,CSU-4899,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1770,Plate 2,Yes,CSU-4916,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.4,-105.042,,,,,,,,mosquito
+W1771,Plate 2,Yes,CSU-4919,2013-08-12,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.4,-105.042,,,,,,,,mosquito
+W1772,Plate 2,Yes,CSU-4924,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.02,,,,,,,,mosquito
+W1773,Plate 2,Yes,CSU-4950,2013-08-12,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,mosquito
+W1774,Plate 2,Yes,CSU-4964,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.543,-105.046,,,,,,,,mosquito
+W1775,Plate 2,Yes,CSU-5010,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.367,-105.074,,,,,,,,mosquito
+W1776,Plate 2,Yes,CSU-5032,2013-08-12,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.532,-105.088,,,,,,,,mosquito
+W1777,Plate 2,Yes,CSU-5049,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.592,-105.066,,,,,,,,mosquito
+W1778,Plate 2,Yes,CSU-5073,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.57,-105.071,,,,,,,,mosquito
+W1779,Plate 2,Yes,CSU-5078,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,mosquito
+W1780,Plate 2,Yes,CSU-5142,2013-08-19,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.573,-105.139,,,,,,,,mosquito
+W1781,Plate 2,Yes,CSU-5177,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,mosquito
+W1782,Plate 2,Yes,CSU-5200,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,mosquito
+W1783,Plate 2,Yes,CSU-5201,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,mosquito
+W1784,Plate 2,Yes,CSU-5210,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.564,-105.007,,,,,,,,mosquito
+W1785,Plate 2,Yes,CSU-5243,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.071,,,,,,,,mosquito
+W1786,Plate 2,Yes,CSU-5255,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.436,-105.084,,,,,,,,mosquito
+W1787,Plate 2,Yes,CSU-5268,2013-08-26,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1788,Plate 2,Yes,CSU-5269,2013-08-26,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.535,-105.037,,,,,,,,mosquito
+W1789,Plate 3,Yes,CSU-5313,2013-09-02,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.599,-105.006,,,,,,,,mosquito
+W1790,Plate 3,Yes,CSU-5385,2013-09-02,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.517,-105.098,,,,,,,,mosquito
+W1791,Plate 3,Yes,CSU-6034,2014-07-28,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,mosquito
+W1792,Plate 3,Yes,CSU-6189,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,mosquito
+W1793,Plate 3,Yes,CSU-6272,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.481,-105.039,,,,,,,,mosquito
+W1794,Plate 3,Yes,CSU-6327,2014-08-04,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.506,-105.039,,,,,,,,mosquito
+W1795,Plate 3,Yes,CSU-6354,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1796,Plate 3,Yes,CSU-6372,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.416,-105.045,,,,,,,,mosquito
+W1797,Plate 3,Yes,CSU-6485,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1798,Plate 3,Yes,CSU-6599,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.421,-105.058,,,,,,,,mosquito
+W1799,Plate 3,Yes,CSU-6607,2014-08-11,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.51,-105.069,,,,,,,,mosquito
+W1800,Plate 3,Yes,CSU-6691,2014-08-18,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.592,-105.066,,,,,,,,mosquito
+W1801,Plate 3,Yes,CSU-6712,2014-08-18,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,mosquito
+W1802,Plate 3,Yes,CSU-6784,2014-08-18,Cx. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.379,-105.12,,,,,,,,mosquito
+W1803,Plate 3,Yes,CSU-6841,2014-08-25,Cx. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,mosquito
+W1804,Plate 4,Yes,CSU-7350,2015-06-29,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1805,Plate 4,Yes,CSU-8003,2015-07-27,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,mosquito
+W1806,Plate 4,Yes,CSU-8165,2015-08-03,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1807,Plate 4,Yes,CSU-8231,2015-08-03,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,mosquito
+W1808,Plate 4,Yes,CSU-8304,2015-08-10,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,mosquito
+W1809,Plate 4,Yes,CSU-8427,2015-08-17,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1810,Plate 4,Yes,CSU-8567,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1811,Plate 4,Yes,CSU-8569,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1812,Plate 4,Yes,CSU-8613,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,mosquito
+W1813,Plate 4,Yes,CSU-8618,2015-08-24,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.536,-105.101,,,,,,,,mosquito
+W1814,Plate 4,Yes,CSU-8639,2015-08-31,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,mosquito
+W1815,Plate 4,Yes,CSU-8649,2015-08-31,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,mosquito
+W1816,Plate 5,Yes,CSU-8802,2015-09-07,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,mosquito
+W1817,Plate 5,Yes,CSU-8834,2015-09-14,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,mosquito
+W1818,Plate 5,Yes,CSU-8858,2015-09-14,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,mosquito
+W1819,Plate 5,Yes,CSU-9037,2016-06-27,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,mosquito
+W1820,Plate 5,Yes,CSU-9322,2016-07-18,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.601,-105.08,,,,,,,,mosquito
+W1821,Plate 5,Yes,CSU-9535,2016-07-25,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,mosquito
+W1822,Plate 5,Yes,CSU-9699,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.429,-105.058,,,,,,,,mosquito
+W1823,Plate 5,Yes,CSU-9708,2016-08-08,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.579,-105.056,,,,,,,,mosquito
+W1824,Plate 5,Yes,CSU-9738,2016-08-08,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.397,-105.021,,,,,,,,mosquito
+W1825,Plate 5,Yes,CSU-9761,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1826,Plate 5,Yes,CSU-9776,2016-08-08,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.547,-105.034,,,,,,,,mosquito
+W1827,Plate 5,Yes,CSU-9820,2016-08-15,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1828,Plate 5,Yes,CSU-9838,2016-08-15,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,mosquito
+W1829,Plate 6,Yes,CSU-9955,2016-08-22,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.404,-105.072,,,,,,,,mosquito
+W1830,Plate 6,Yes,CSU-9984,2016-08-22,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1831,Plate 6,Yes,CSU-10224,2016-09-12,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.582,-105.111,,,,,,,,mosquito
+W1832,Plate 6,Yes,CSU-10766,2017-07-17,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.499,-105.012,,,,,,,,mosquito
+W1833,Plate 6,Yes,CSU-10804,2017-07-17,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.344,-105.103,,,,,,,,mosquito
+W1834,Plate 6,Yes,CSU-11073,2017-07-31,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1835,Plate 6,Yes,CSU-11175,2017-08-07,Cx.. pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1836,Plate 6,Yes,CSU-11361,2017-08-21,Cx.. tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.321,-105.095,,,,,,,,mosquito
+W1837,Plate 6,Yes,CSU-12001,2018-07-09,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.536,-105.101,,,,,,,,mosquito
+W1838,Plate 6,Yes,CSU-12092,2018-07-16,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.532,-105.088,,,,,,,,mosquito
+W1839,Plate 6,Yes,CSU-12107,2018-07-23,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.444,-105.022,,,,,,,,mosquito
+W1840,Plate 6,Yes,CSU-12168,2018-07-23,Cx.. TARSALIS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.344,-105.103,,,,,,,,mosquito
+W1841,Plate 6,Yes,CSU-12418,2018-08-06,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1842,Plate 7,Yes,CSU-12445,2018-08-06,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.069,,,,,,,,mosquito
+W1843,Plate 7,Yes,CSU-12497,2018-08-13,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.579,-105.056,,,,,,,,mosquito
+W1844,Plate 7,Yes,CSU-12581,2018-08-20,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.571,-105.055,,,,,,,,mosquito
+W1845,Plate 7,Yes,CSU-12737,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1846,Plate 7,Yes,CSU-12739,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1847,Plate 7,Yes,CSU-12782,2018-08-27,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.603,-105.066,,,,,,,,mosquito
+W1848,Plate 7,Yes,CSU-12825,2018-09-03,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.582,-105.111,,,,,,,,mosquito
+W1849,Plate 7,Yes,CSU-12868,2018-09-10,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.584,-105.065,,,,,,,,mosquito
+W1850,Plate 7,Yes,CSU-12900,2018-09-10,Cx.. PIPIENS,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.566,-105.105,,,,,,,,mosquito
+W1851,Plate 7,Yes,CSU-13810,2019-08-19,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.53,-105.05,,,,,,,,mosquito
+W1852,Plate 7,Yes,CSU-13931,2019-08-26,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.533,-105.031,,,,,,,,mosquito
+W1853,Plate 7,Yes,CSU-13954,2019-09-02,Cx.. Pipiens,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.511,-105.029,,,,,,,,mosquito
+W1854,Plate 7,Yes,CSU-14002,2019-09-02,Cx.. Tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Loveland,,40.374,-105.113,,,,,,,,mosquito
+W1855,Plate 8,Yes,CSU-13709,2019-09-09,Cx.. Tarsalis,Pooled Mosquitoes,,USA,CO,Larimer,Fort Collins,,40.559,-105.023,,,,,,,,mosquito
+W1856,2020-box,Yes,84,2020-06-22,CPG,Pooled Mosquitoes,,USA,IA,Polk,Welker,,41.575,-93.686,26.174,,,,,,,mosquito
+W1863,2020-box,Yes,520,2020-08-18,CPG,Pooled Mosquitoes,,USA,IA,Polk,Lovington,,41.648,-93.679,17.882,,,,,,,mosquito
+W1864,2020-box,Yes,521,2020-08-18,Culex pipiens,Pooled Mosquitoes,,USA,IA,Polk,Lovington,,41.648,-93.679,23.34,,,,,,,mosquito
+W1865,2020-box,Yes,522,2020-08-20,Culex restuans,Pooled Mosquitoes,,USA,IA,Polk,Lovington,,41.648,-93.679,23.117,,,,,,,mosquito
+W1866,2020-box,Yes,538,2020-08-24,CPG,Pooled Mosquitoes,,USA,IA,Polk,Jester Park,,41.784,-93.777,15.317,,,,,,,mosquito
+W1868,2020-box,Yes,563,2020-08-24,Culex restuans,Pooled Mosquitoes,,USA,IA,Polk,Lovington,,41.648,-93.679,27.148,,,,,,,mosquito
+W1870,2020-box,Yes,613,2020-08-28,Culex erraticus,Pooled Mosquitoes,,USA,IA,Polk,Ewing,,41.538,-93.577,29.511,,,,,,,mosquito
+W1882,2020-box,Yes,832,2020-09-02,Culex restuans,Pooled Mosquitoes,,USA,IA,Polk,Norwood,,41.645,-93.541,27.16,,,,,,,mosquito
+W1883,2020-box,Yes,833,2020-09-03,Culex pipiens,Pooled Mosquitoes,,USA,IA,Polk,Norwood,,41.645,-93.541,33.27,,,,,,,mosquito
+W1884,2020-box,Yes,863,2020-09-21,Culex restuans,Pooled Mosquitoes,,USA,IA,Polk,Norwood,,41.645,-93.541,28.21,,,,,,,mosquito
+W1885,2020-box,Yes,868,2020-08-19,Culex pipiens,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,31.53,,,,,,,mosquito
+W1886,2020-box,Yes,909,2020-08-24,Culex pipiens,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,26.52,,,,,,,mosquito
+W1888,2020-box,Yes,913,2020-08-24,Culex restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,22.6,,,,,,,mosquito
+W1889,2020-box,Yes,941,2020-08-31,Culex pipiens,Pooled Mosquitoes,,USA,IA,City of Des Moines,Sheridan,,41.618,-93.611,29.73,,,,,,,mosquito
+W1890,2020-box,Yes,942,2020-08-31,Culex restuans,Pooled Mosquitoes,,USA,IA,City of Des Moines,Sheridan,,41.618,-93.611,22.69,,,,,,,mosquito
+W1891,2020-box,Yes,1005,2020-09-02,Culex tarsalis,Pooled Mosquitoes,,USA,IA,O'Brien,City Dump,,43.080,-95.611,26.94,,,,,,,mosquito
+W1893,2020-box,Yes,1057,2020-08-31,Culex pipiens,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,24.3,,,,,,,mosquito
+W1894,2020-box,Yes,1061,2020-10-05,Culex pipiens,Pooled Mosquitoes,,USA,IA,Polk,Norwood,,41.645,-93.541,26.84,,,,,,,mosquito
+W1897,2020-box,Yes,1067,2020-09-02,Culex pipiens,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,31.22,,,,,,,mosquito
+W1898,2020-box,Yes,1092,2020-09-02,Culex pipiens,Pooled Mosquitoes,,USA,IA,Black Hawk,Deerwood Park,,42.463,-92.306,32.49,,,,,,,mosquito
+W1900,2016-box,,744,2016-08-08,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Fremont,,,40.744,-95.609,,,,,,,,mosquito
+W1902,2016-box,,982,2016-08-13,Cx. restuans,Pooled Mosquitoes,,USA,IA,Van Buren,,,40.750,-91.952,,,,,,,,mosquito
+W1904,2016-box,,268,2016-07-03,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1905,2016-box,,431,2016-07-14,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,42.391,-96.051,,,,,,,,mosquito
+W1907,2016-box,,523,2016-07-20,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1908,2016-box,,546,2016-07-26,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,41.333,-95.533,,,,,,,,mosquito
+W1909,2016-box,,557,2016-07-26,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1911,2016-box,,563,2016-07-26,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1912,2016-box,,609,2016-08-08,CPG,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1914,2016-box,,645,2016-08-08,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1915,2016-box,,646,2016-08-08,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1916,2016-box,,664,2016-08-13,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1917,2016-box,,665,2016-08-13,Cx. salinarius,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1918,2016-box,,704,2016-08-19,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1919,2016-box,,705,2016-08-19,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1920,2016-box,,707,2016-08-19,CPG,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1922,2016-box,,838,2016-08-19,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1923,2016-box,,841,2016-08-19,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1924,2016-box,,874,2016-08-25,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1925,2016-box,,879,2016-08-25,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1935,2016-box,,1121,2016-09-12,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,42.038,-93.466,,,,,,,,mosquito
+W1937,2016-box,,1131,2016-08-25,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1942,2016-box,,1155,2016-09-12,CPG,Pooled Mosquitoes,,USA,IA,Polk,,,41.685,-93.570,,,,,,,,mosquito
+W1944,2017-box,,128,2017-06-05,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1945,2017-box,,266,2017-06-19,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1947,2017-box,,400,2017-07-03,Cx. salinarius,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1948,2017-box,,456,2017-07-03,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1950,2017-box,,514,2017-07-10,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1951,2017-box,,517,2017-07-10,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1952,2017-box,,518,2017-07-10,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1953,2017-box,,556,2017-07-10,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1954,2017-box,,561,2017-07-10,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1955,2017-box,,573,2017-07-17,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1956,2017-box,,598,2017-07-17,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1957,2017-box,,622,2017-07-17,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1958,2017-box,,630,2017-07-17,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1959,2017-box,,631,2017-07-17,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1960,2017-box,,656,2017-07-24,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1961,2017-box,,667,2017-07-17,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1962,2017-box,,681,2017-07-17,Cx. tarsalis,Pooled Mosquitoes,,USA,IA,Dickinson,,,,,,,,,,,,mosquito
+W1963,2017-box,,695,2017-07-24,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1964,2017-box,,732,2017-07-24,Cx. pipiens,Pooled Mosquitoes,,USA,IA,O'Brien,,,,,,,,,,,,mosquito
+W1966,2017-box,,750,2017-07-24,CPG,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1967,2017-box,,760,2017-07-24,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1968,2017-box,,778,2017-07-24,Cx. restuans,Pooled Mosquitoes,,USA,IA,Monona,,,,,,,,,,,,mosquito
+W1969,2017-box,,781,2017-07-24,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1971,2017-box,,786,2017-07-24,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1972,2017-box,,796,2017-07-24,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1973,2017-box,,804,2017-07-31,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1974,2017-box,,826,2017-07-31,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1975,2017-box,,829,2017-07-31,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1976,2017-box,,851,2017-07-31,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1977,2017-box,,859,2017-07-31,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1979,2017-box,,909,2017-08-07,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1981,2017-box,,928,2017-08-14,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1982,2017-box,,975,2017-08-07,CPG,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1983,2017-box,,1008,2017-08-14,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1984,2017-box,,1009,2017-08-14,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W1987,2017-box,,1031,2017-08-14,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1988,2017-box,,1033,2017-08-14,Cx. restuans,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1989,2017-box,,1038,2017-08-14,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1990,2017-box,,1042,2017-08-14,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1991,2017-box,,1043,2017-08-14,Cx. salinarius,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1992,2017-box,,1063,2017-08-07,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W1993,2017-box,,1066,2017-08-07,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W1994,2017-box,,1070,2017-07-31,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W1995,2017-box,,1096,2017-08-21,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W1996,2017-box,,1117,2017-08-21,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Woodbury,,,,,,,,,,,,mosquito
+W1997,2017-box,,1152,2017-08-21,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1998,2017-box,,1154,2017-08-21,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W1999,2017-box,,1155,2017-08-21,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2000,2017-box,,1207,2017-08-28,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W2001,2017-box,,1211,2017-08-28,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W2002,2017-box,,1220,2017-08-28,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2006,2017-box,,1227,2017-08-28,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2007,2017-box,,1228,2017-08-28,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2008,2017-box,,1249,2017-09-04,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2009,2017-box,,1252,2017-09-04,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2010,2017-box,,1262,2017-09-04,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2011,2017-box,,1297,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2012,2017-box,,1301,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2013,2017-box,,1314,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W2014,2017-box,,1315,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W2015,2017-box,,1322,2017-09-04,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W2016,2017-box,,1326,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W2017,2017-box,,1328,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W2018,2017-box,,1331,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Black Hawk,,,,,,,,,,,,mosquito
+W2021,2017-box,,1352,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2022,2017-box,,1355,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2023,2017-box,,1357,2017-09-11,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2024,2017-box,,1358,2017-09-11,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2026,2017-box,,1391,2017-09-18,Cx. pipiens,Pooled Mosquitoes,,USA,IA,Story,,,,,,,,,,,,mosquito
+W2027,2017-box,,1399,2017-09-18,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2028,2017-box,,1400,2017-09-18,Cx. restuans,Pooled Mosquitoes,,USA,IA,Pottawattamie,,,,,,,,,,,,mosquito
+W2029,2017-box,,1440,2017-09-18,Cx. restuans,Pooled Mosquitoes,,USA,IA,Monona,,,,,,,,,,,,mosquito
+W2030,2017-box,,1446,2017-09-25,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
+W2031,2017-box,,1451,2017-09-25,Cx. restuans,Pooled Mosquitoes,,USA,IA,Polk,,,,,,,,,,,,mosquito
