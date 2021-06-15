@@ -17,7 +17,7 @@ By partnering with West Nile virus surveillance labs across the country, the [We
 | Ohio                                                                     | Leeanne Garrett and Kevin Sohner from the [Ohio Department of Health](https://odh.ohio.gov/wps/portal/gov/odh/home)                                                              |
 | Illinois                                                                 | Alex Westrich, Claudia Blanco, and Raed Mansour from the [City of Chicago Department of Public Health](https://www.chicago.gov/city/en/depts/cdph.html)                          |
 | Colorado                                                                 | Greg Ebel, Reyes Murrieta, Joseph Fauver, and Michael C. Young from [Colorado State University](http://csu-cvmbs.colostate.edu/academics/mip/aidl/Pages/default.aspx)                              |
-
+| Iowa									   | [Washington Animal Disease Diagnostic Laboratory (WADDL)](https://waddl.vetmed.wsu.edu/) and Ryan Smith from the [Iowa State University](https://faculty.sites.iastate.edu/smithr/) |
 
 #### Raw Data
 
@@ -31,7 +31,7 @@ Below is a table showing the number of sequenced genomes by state.
 |:------|:------|
 | CA    | 740   |
 | CO    | 94    |
-| IA    | 1     |
+| IA    | 120   |
 | ID    | 2     |
 | IL    | 26    |
 | LA    | 46    |
@@ -41,7 +41,7 @@ Below is a table showing the number of sequenced genomes by state.
 | OR    | 10    |
 | WA    | 19    |
 | Other | 1     |
-| Total | 1119  |
+| Total | 1239  |
 
 
 **Disclaimer**. Please note that this data is released as work in progress by the WestNile 4K Project and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments.
